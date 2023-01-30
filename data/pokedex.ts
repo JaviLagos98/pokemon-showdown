@@ -19240,7 +19240,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	emboarjavi: {
 		num: 10000,
-		name: "Emboar",
+		name: "Emboar (Javi)",
 		types: ["Water", "Fire"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 110, atk: 123, def: 80, spa: 70, spd: 80, spe: 65},
