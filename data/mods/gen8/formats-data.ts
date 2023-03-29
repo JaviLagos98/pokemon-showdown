@@ -5602,7 +5602,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	pigardoom: {
-		isNonstandard: "NU",
+		tier: "NU",
 		doublesTier: "(DUU)"
 	}
 };
