@@ -94276,4 +94276,12 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 5, level: 47, moves: ["darkpulse", "flamethrower", "hyperbeam", "icebeam"]},
 		],
 	},
+	pigardoom: {
+		learnset: {
+			surgingstrikes: ["8L0"],
+			suckerpunch: ["8L0"],
+			fishiousrend: ["8L0"],
+			flareblitz: ["8L0"],
+		},
+	}
 };
