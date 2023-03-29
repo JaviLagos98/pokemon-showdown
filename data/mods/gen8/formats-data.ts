@@ -5601,4 +5601,8 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	pigardoom: {
+		isNonstandard: "NU",
+		doublesTier: "(DUU)"
+	}
 };
