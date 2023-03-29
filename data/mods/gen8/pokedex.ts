@@ -96,4 +96,8 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Healer", H: "Contrary"},
 	},
+	pigardoom: {
+		inherit: true,
+		abilities: {0: "Overgrow", 1: "Magic Guard", H: "Intrepid Sword"},
+	},	
 };
