@@ -14,4 +14,5 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		eggGroups: ["Field"],
 		gen: 8,
 	},
+	
 };
