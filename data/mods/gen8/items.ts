@@ -723,4 +723,52 @@ export const Items: {[k: string]: ModdedItemData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
+	abomasite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	absolite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	aerodactylite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	aggronite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	alakazite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	altarianite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	aloraichiumz: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	ampharosite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	audinite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	banettite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	beedrillite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	venusaurite: {
+		inherit: true,
+		isNonstandard: null,
+	},
 };
