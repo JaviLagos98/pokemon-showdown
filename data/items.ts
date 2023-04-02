@@ -2966,11 +2966,11 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		spritenum: 475,
 		onModifyCritRatio(critRatio, user) {
-			if (["farfetchd", "sirfetchd"].includes(this.toID(user.baseSpecies.baseSpecies))) {
+			if (["farfetchd", "sirfetchd", "pinkchariot"].includes(this.toID(user.baseSpecies.baseSpecies))) {
 				return critRatio + 2;
 			}
 		},
-		itemUser: ["Farfetch\u2019d", "Farfetch\u2019d-Galar", "Sirfetch\u2019d"],
+		itemUser: ["Farfetch\u2019d", "Farfetch\u2019d-Galar", "Sirfetch\u2019d", "PINK CHARIOT"],
 		num: 259,
 		gen: 8,
 		isNonstandard: "Past",

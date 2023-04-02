@@ -5213,4 +5213,20 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		rating: 3,
 		num: -4,
 	},
+	rampage: {
+		desc: "If this Pokemon KOs an opposing Pokemon with a recharge move, then the user does not need to recharge.",
+		shortDesc: "KO: No recharge.",
+		onAfterMoveSecondarySelf(pokemon, target, move) {
+			if (!target || target.fainted || target.hp <= 0) {
+				if (pokemon.volatiles['mustrecharge']) {
+					this.add('-ability', pokemon, 'Last Minute Lag');
+					this.add('-end', pokemon, 'mustrecharge');
+					delete pokemon.volatiles['mustrecharge'];
+					this.hint('This pokemon is on a Rampage! It\'s ready to keep attacking!');
+				}
+			}
+		},
+		name: "Rampage",
+		gen: 8,
+	},
 };
