@@ -19389,7 +19389,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	trece: {
 		num: 10007,
-		name: "13",
+		name: "TRECE",
 		types: ["Ice", "Fighting"],
 		gender: "N",
 		baseStats: {hp: 80, atk: 135, def: 130, spa: 95, spd: 90, spe: 70},
@@ -19403,10 +19403,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	trecemega: {
 		num: 10007,
-		name: "Metagross-Mega",
-		baseSpecies: "Metagross",
+		name: "TRECE-Mega",
+		baseSpecies: "TRECE",
 		forme: "Mega",
-		types: ["Ice", "FIghting"],
+		types: ["Ice", "Fighting"],
 		gender: "N",
 		baseStats: {hp: 80, atk: 145, def: 150, spa: 105, spd: 110, spe: 110},
 		abilities: {0: "Shadow Shield", H: "Rampage"},
