@@ -5603,5 +5603,45 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	pigardoom: {
 		tier: "NU",
 		doublesTier: "(DUU)"
+	},
+	conchity: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	ironjuan: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	magopop: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	magopopmega: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	prendeporros: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	prendeporrosmega: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	pinkchariot: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	gymbrock: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	trece: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	trecemega: {
+		tier: "NU",
+		doublesTier: "(DUU)"
 	}
 };

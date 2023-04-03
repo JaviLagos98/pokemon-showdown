@@ -99,5 +99,45 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	pigardoom: {
 		inherit: true,
 		abilities: {0: "Overgrow", 1: "Magic Guard", H: "Intrepid Sword"},
-	},	
+	},
+	conchity: {
+		inherit: true,
+		abilities: {0: "Victory Star", 1: "Magic Guard", H: "Frisk"},
+	},
+	ironjuan: {
+		inherit: true,
+		abilities: {0: "Poison Touch", 1: "Moody", H: "Rivalry"},
+	},
+	magopop: {
+		inherit: true,
+		abilities: {0: "Protean", 1: "Flare Boost", H: "Soul-Heart"},
+	},
+	magopopmega: {
+		inherit: true,
+		abilities: {0: "Protean", 1: "Flare Boost", H: "Soul-Heart"},
+	},
+	prendeporros: {
+		inherit: true,
+		abilities: {0: "Iron Barbs", 1: "Aftermath", H: "Scrappy"},
+	},
+	prendeporrosmega: {
+		inherit: true,
+		abilities: {0: "Iron Barbs", 1: "Aftermath", H: "Scrappy"},
+	},
+	pinkchariot: {
+		inherit: true,
+		abilities: {0: "Prism Armor", 1: "Adaptability", H: "Sand Stream"},
+	},
+	gymbrock: {
+		inherit: true,
+		abilities: {0: "Water Absorb", 1: "Ice Scales", H: "Rampage"},
+	},
+	trece: {
+		inherit: true,
+		abilities: {0: "Shadow Shield", H: "Rampage"},
+	},
+	trecemega: {
+		inherit: true,
+		abilities: {0: "Shadow Shield", H: "Rampage"},
+	}
 };
