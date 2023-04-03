@@ -19330,7 +19330,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 48,
 		color: "Brown",
 		eggGroups: ["Human-Like"],
-		requiredItem: "Alakazite",
+		requiredItem: "Magopopite",
 		gen: 8,
 	},
 	prendeporros: {
@@ -19360,7 +19360,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 100.5,
 		color: "Red",
 		eggGroups: ["Monster", "Dragon"],
-		requiredItem: "Charizardite Y",
+		requiredItem: "Prendeporrite",
 	},
 	pinkchariot: {
 		num: 10005,
@@ -19414,7 +19414,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 942.9,
 		color: "Blue",
 		eggGroups: ["Mineral"],
-		requiredItem: "Metagrossite",
+		requiredItem: "Treceite",
 	},
 	
 };

@@ -723,16 +723,16 @@ export const Items: {[k: string]: ModdedItemData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
-	alakazite: {
+	treceite: {
 		inherit: true,
 		isNonstandard: null,
 	},
-	charizarditey: {
+	magopopite: {
 		inherit: true,
 		isNonstandard: null,
 	},
-	metagrossite: {
+	prendeporrite: {
 		inherit: true,
 		isNonstandard: null,
-	}
+	},
 };

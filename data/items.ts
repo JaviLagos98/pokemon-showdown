@@ -7530,4 +7530,46 @@ export const Items: {[itemid: string]: ItemData} = {
 		gen: 8,
 		isNonstandard: "CAP",
 	},
+	treceite: {
+		name: "Treceite",
+		spritenum: 618,
+		megaStone: "TRECE-Mega",
+		megaEvolves: "TRECE",
+		itemUser: ["TRECE"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 758,
+		gen: 6,
+		isNonstandard: "Past",
+	},
+	magopopite: {
+		name: "Magopopite",
+		spritenum: 579,
+		megaStone: "MAGO POP-Mega",
+		megaEvolves: "MAGO POP",
+		itemUser: ["MAGO POP"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 679,
+		gen: 6,
+		isNonstandard: "Past",
+	},
+	prendeporrite: {
+		name: "Prendeporrite",
+		spritenum: 586,
+		megaStone: "PRENDEPORROS-Mega",
+		megaEvolves: "PRENDEPORROS",
+		itemUser: ["PRENDEPORROS"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 678,
+		gen: 6,
+		isNonstandard: "Past",
+	},
 };
