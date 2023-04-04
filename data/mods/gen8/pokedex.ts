@@ -139,5 +139,9 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	trecemega: {
 		inherit: true,
 		abilities: {0: "Shadow Shield", H: "Rampage"},
-	}
+	},
+	venusaurmega: {
+		inherit: true, 
+		abilities: {0: "Thick Fat"},
+	},
 };
