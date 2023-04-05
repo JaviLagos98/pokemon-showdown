@@ -94351,7 +94351,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	crazycuac: {
 		learnset: {
-			rairywind: ["8L0"],
+			fairywind: ["8L0"],
 			secretsword: ["8L0"],
 			furycutter: ["8L0"],
 			focusblast: ["8L0"],
@@ -94461,5 +94461,4 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			avalanche: ["8L0"],
 		}
 	}
-
 };

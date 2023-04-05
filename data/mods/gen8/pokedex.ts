@@ -190,7 +190,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	naruto: {
 		inherit: true,
-		abilities: {0: "Cheek Pouch", 1: "Drought Dream", H: "Big Pecks"},
+		abilities: {0: "Cheek Pouch", 1: "Drought", H: "Big Pecks"},
 	},
 	lola: {
 		inherit: true,

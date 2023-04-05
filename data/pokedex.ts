@@ -19384,7 +19384,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		heightm: 2.4,
 		weightkg: 333.6,
 		color: "Red",
-		tags: ["Sub-Legendary"],
 		eggGroups: ["Undiscovered"],
 	},
 	trece: {
@@ -19564,7 +19563,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		types: ["Fire", "Electric"],
 		genderRatio: {M: 1, F: 0},
 		baseStats: {hp: 72, atk: 95, def: 67, spa: 103, spd: 71, spe: 122},
-		abilities: {0: "Cheek Pouch", 1: "Drought Dream", H: "Big Pecks"},
+		abilities: {0: "Cheek Pouch", 1: "Drought", H: "Big Pecks"},
 		heightm: 1.5,
 		weightkg: 40,
 		color: "Blue",
@@ -19726,7 +19725,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		heightm: 3.5,
 		weightkg: 950,
 		color: "Brown",
-		tags: ["Restricted Legendary"],
 		eggGroups: ["Undiscovered"],
 	}
 };
