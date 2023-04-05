@@ -19346,6 +19346,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster", "Dragon"],
 		otherFormes: ["PRENDEPORROS-Mega"],
 		formeOrder: ["PRENDEPORROS", "PRENDEPORROS-Mega"],
+		gen: 8,
 	},
 	prendeporrosmega: {
 		num: 10004,
@@ -19361,6 +19362,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Red",
 		eggGroups: ["Monster", "Dragon"],
 		requiredItem: "Prendeporrite",
+		gen:8,
 	},
 	pinkchariot: {
 		num: 10005,
@@ -19385,6 +19387,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 333.6,
 		color: "Red",
 		eggGroups: ["Undiscovered"],
+		gen: 8,
 	},
 	trece: {
 		num: 10007,
@@ -19399,6 +19402,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral"],
 		otherFormes: ["13-Mega"],
 		formeOrder: ["13", "13-Mega"],
+		gen: 8,
 	},
 	trecemega: {
 		num: 10007,
@@ -19414,6 +19418,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Blue",
 		eggGroups: ["Mineral"],
 		requiredItem: "Treceite",
+		gen: 8,
 	},
 	mecadennis: {
 		num: 20051,
@@ -19426,6 +19431,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 150,
 		color: "Gray",
 		eggGroups: ["Field"],
+		gen: 8,
 	},
 	hyojinmaru: {
 		num: 20052,
@@ -19437,6 +19443,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 291,
 		color: "Blue",
 		eggGroups: ["Field"],
+		gen: 8,
 	},
 	croqueto: {
 		num: 20053,
@@ -19448,6 +19455,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 80,
 		color: "White",
 		eggGroups: ["Field"],
+		gen: 8,
 	},
 	nessie: {
 		num: 20054,
@@ -19459,6 +19467,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 220,
 		color: "Blue",
 		eggGroups: ["Monster", "Water 1"],
+		gen: 8,
 	},
 	jormungand: {
 		num: 20055,
@@ -19472,6 +19481,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral"],
 		otherFormes: ["Jormungand-Mega"],
 		formeOrder: ["Jormungand", "Jormungand-Mega"],
+		gen: 8,
 	},
 	jormungandmega: {
 		num: 20055,
@@ -19486,6 +19496,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Red",
 		eggGroups: ["Mineral"],
 		requiredItem: "Jormungandite",
+		gen: 8,
 	},
 	behel: {
 		num: 20056,
@@ -19497,6 +19508,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 360,
 		color: "Blue",
 		eggGroups: ["Monster"],
+		gen: 8,
 	},
 	pikachudoubt: {
 		num: 20057,
@@ -19509,6 +19521,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 90.5,
 		color: "Green",
 		eggGroups: ["Monster", "Dragon"],
+		gen: 8,
 	},
 	balat: {
 		num: 20058,
@@ -19521,6 +19534,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 206.5,
 		color: "Brown",
 		eggGroups: ["Monster", "Dragon"],
+		gen: 8,
 	},
 	andyb: {
 		num: 90001,
@@ -19533,6 +19547,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 79.5,
 		color: "Yellow",
 		eggGroups: ["Field"],
+		gen: 8,
 	},
 	michi: {
 		num: 90002,
@@ -19545,6 +19560,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 32.6,
 		color: "Purple",
 		eggGroups: ["Field", "Fairy"],
+		gen: 8,
 	},
 	punki: {
 		num: 90003,
@@ -19556,6 +19572,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 88.8,
 		color: "Blue",
 		eggGroups: ["Monster", "Water 1"],
+		gen: 8,
 	},
 	naruto: {
 		num: 90004,
@@ -19568,6 +19585,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 40,
 		color: "Blue",
 		eggGroups: ["Water 1"],
+		gen: 8,
 	},
 	lola: {
 		num: 90005,
@@ -19583,6 +19601,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoLevel: 35,
 		eggGroups: ["Field", "Human-Like"],
 		canGigantamax: "G-Max Fireball",
+		gen: 8,
 	},
 	dualipa: {
 		num: 90006,
@@ -19597,6 +19616,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "levelMove",
 		evoMove: "Stomp",
 		eggGroups: ["Grass"],
+		gen: 8,
 	},
 	badgyal: {
 		num: 90007,
@@ -19609,6 +19629,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 19.9,
 		color: "Brown",
 		eggGroups: ["Field"],
+		gen: 8,
 	},
 	acerakion: {
 		num: 90008,
@@ -19621,6 +19642,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 260,
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
+		gen: 8,
 	},
 	camilo: {
 		num: 30051,
@@ -19633,6 +19655,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 100,
 		color: "Red",
 		eggGroups: ["Monster", "Grass"],
+		gen: 8,
 	},
 	camilomega: {
 		num: 30052,
@@ -19647,6 +19670,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Red",
 		eggGroups: ["Monster", "Grass"],
 		requiredItem: "CAMILOite",
+		gen: 8,
 	},
 	crazycuac: {
 		num: 30053,
@@ -19658,6 +19682,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 76.6,
 		color: "Grey",
 		eggGroups: ["Field"],
+		gen: 8,
 	},
 	juanmagan: {
 		num: 30054,
@@ -19669,6 +19694,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 19,
 		color: "Purple",
 		eggGroups: ["Field"],
+		gen: 8,
 	},
 	tejero: {
 		num: 30055,
@@ -19680,6 +19706,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 45.2,
 		color: "Blue",
 		eggGroups: ["Monster", "Water 1"],
+		gen: 8,
 	},
 	pringle: {
 		num: 30056,
@@ -19691,6 +19718,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 55,
 		color: "Red",
 		eggGroups: ["Mineral"],
+		gen: 8,
 	},
 	chicote: {
 		num: 30057,
@@ -19702,6 +19730,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 150,
 		color: "Blue",
 		eggGroups: ["Monster"],
+		gen: 8,
 	},
 	megachonk: {
 		num: 30058,
@@ -19714,6 +19743,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 130.5,
 		color: "Green",
 		eggGroups: ["Monster", "Dragon"],
+		gen: 8,
 	},
 	aitana: {
 		num: 30059,
@@ -19726,5 +19756,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 950,
 		color: "Brown",
 		eggGroups: ["Undiscovered"],
+		gen: 8,
 	}
 };
