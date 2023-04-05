@@ -5748,4 +5748,84 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	yoloking: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	yolokingmega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rayguazas: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	windu: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	windumega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	nosferatu: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	hobogoblin: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rocodromer: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	agentesn: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	charizardnt: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	charizardntmega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	mogikarp: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	goro: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	algo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pelele: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	jorginna: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	patrisio: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	acab: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	acabmega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	adolf: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };

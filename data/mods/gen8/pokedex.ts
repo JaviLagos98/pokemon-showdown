@@ -244,12 +244,48 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Speed Boost", 1: "Poison Point"},
 	},
-	charizardont: {
+	charizardnt: {
 		inherit: true,
 		abilities: {0: "Intimidate", H: "Moxie"},
 	},
-	charizardontmega: {
+	charizardntmega: {
 		inherit: true,
 		abilities: {0: "Intimidate"},
+	},
+	mogikarp: {
+		inherit: true,
+		abilities: {0: "Unnerve", 1: "Turboblaze", H: "Sand Stream"},
+	},
+	goro: {
+		inherit: true,
+		abilities: {0: "Unseen Fist", 1: "Magic Guard", H: "Quick Feet"},
+	},
+	algo: {
+		inherit: true,
+		abilities: {0: "Flower Veil", 1: "Truant", H: "Light Metal"},
+	},
+	pelele: {
+		inherit: true,
+		abilities: {0: "Analytic", 1: "Psychic Surge", H: "Unaware"},
+	},
+	jorginna: {
+		inherit: true,
+		abilities: {0: "Technician", 1: "Natural Cure", H: "Overgrow"},
+	},
+	patrisio: {
+		inherit: true,
+		abilities: {0: "Telepathy", 1: "Solid Rock", H: "Water Veil"},
+	},
+	acab: {
+		inherit: true,
+		abilities: {0: "Competitive", 1: "Screen Cleaner", H: "Triage"},
+	},
+	acabmega: {
+		inherit: true,
+		abilities: {0: "Competitive", 1: "Screen Cleaner", H: "Triage"},
+	},
+	adolf: {
+		inherit: true,
+		abilities: {0: "Color Change", 1: "Turboblaze", H: "Cursed Body"},
 	},
 };

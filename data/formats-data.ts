@@ -6451,11 +6451,47 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
-	charizardont: {
+	charizardnt: {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
-	charizardontmega: {
+	charizardntmega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	mogikarp: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	goro: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	algo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pelele: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	jorginna: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	patrisio: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	acab: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	acabmega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	adolf: {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},

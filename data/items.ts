@@ -7600,6 +7600,20 @@ export const Items: {[itemid: string]: ItemData} = {
 		gen: 6,
 		isNonstandard: "Past",
 	},
+	yolokingite: {
+		name: "YOLOKINGite",
+		spritenum: 608,
+		megaStone: "YOLOKING-Mega",
+		megaEvolves: "YOLOKING",
+		itemUser: ["YOLOKING"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 659,
+		gen: 6,
+		isNonstandard: "Past",
+	},
 	winduite: {
 		name: "WINDUite",
 		spritenum: 608,
@@ -7620,6 +7634,20 @@ export const Items: {[itemid: string]: ItemData} = {
 		megaStone: "CHARIZARDnt-Mega",
 		megaEvolves: "CHARIZARDnt",
 		itemUser: ["CHARIZARDnt"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 659,
+		gen: 6,
+		isNonstandard: "Past",
+	},
+	acabite: {
+		name: "ACABite",
+		spritenum: 608,
+		megaStone: "ACAB-Mega",
+		megaEvolves: "ACAB",
+		itemUser: ["ACAB"],
 		onTakeItem(item, source) {
 			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
 			return true;

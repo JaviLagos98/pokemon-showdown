@@ -743,11 +743,19 @@ export const Items: {[k: string]: ModdedItemData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
+	yolokingite: {
+		inherit: true,
+		isNonstandard: null,
+	},
 	winduite: {
 		inherit: true,
 		isNonstandard: null,
 	},
 	charizardntite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	acabite: {
 		inherit: true,
 		isNonstandard: null,
 	},

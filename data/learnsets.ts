@@ -94517,12 +94517,76 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			aurasphere: ["8L0"],
 		},
 	},
-	charizardont: {
+	charizardnt: {
 		learnset: {
 			precipiceblades: ["8L0"],
 			sappyseed: ["8L0"],
 			attackorder: ["8L0"],
 			shadowforce: ["8L0"],
+		},
+	},
+	pelele: {
+		learnset: {
+			plasmafists: ["8L0"],
+			earthquake: ["8L0"],
+			icehammer: ["8L0"],
+			freezingglare:["8L0"],
+		},
+	},
+	mogikarp: {
+		learnset: {
+			outrage: ["8L0"],
+			precipiceblades: ["8L0"],
+			psychocut: ["8L0"],
+			poisonjab: ["8L0"],
+		},
+	},
+	goro: {
+		learnset: {
+			plasmafists: ["8L0"],
+			darkestlariat: ["8L0"],
+			flareblitz: ["8L0"],
+			closecombat: ["8L0"],
+		},
+	},
+	algo: {
+		learnset: {
+			powergem: ["8L0"],
+			stealthrock: ["8L0"],
+			bugbuzz: ["8L0"],
+			doomdesire: ["8L0"],
+		},
+	},
+	jorginna: {
+		learnset: {
+			extremespeed: ["8L0"],
+			blotstrike: ["8L0"],
+			megahorn: ["8L0"],
+			dragondance: ["8L0"],
+		},
+	},
+	patrisio: {
+		learnset: {
+			originpulse: ["8L0"],
+			fierywrath: ["8L0"],
+			blizzard: ["8L0"],
+			gigadrain: ["8L0"],
+		},
+	},
+	acab: {
+		learnset: {
+			crabhammer: ["8L0"],
+			irontail: ["8L0"],
+			poisonjab: ["8L0"],
+			closecombat: ["8L0"],
+		},
+	},
+	adolf: {
+		learnset: {
+			eternabeam: ["8L0"],
+			oblivionwing: ["8L0"],
+			grasspledge: ["8L0"],
+			fusionbolt: ["8L0"],
 		},
 	},
 };
