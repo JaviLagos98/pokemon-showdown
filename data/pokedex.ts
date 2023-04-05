@@ -19647,7 +19647,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	camilo: {
 		num: 30051,
 		name: "CAMILO",
-		types: ["Fight", "Water"],
+		types: ["Fighting", "Water"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 80, atk: 82, def: 83, spa: 100, spd: 100, spe: 80},
 		abilities: {0: "Libero", 1: "Sand Stream", H: "Cotton Down"},
@@ -19662,7 +19662,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "CAMILO-Mega",
 		baseSpecies: "CAMILO",
 		forme: "Mega",
-		types: ["Fight", "Water"],
+		types: ["Fighting", "Water"],
 		baseStats: {hp: 80, atk: 100, def: 123, spa: 122, spd: 120, spe: 80},
 		abilities: {0: "Libero", 1: "Sand Stream", H: "Cotton Down"},
 		heightm: 2.4,
@@ -19675,7 +19675,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	crazycuac: {
 		num: 30053,
 		name: "CRAZY CUAC",
-		types: ["Steel", "Fight"],
+		types: ["Steel", "Fighting"],
 		baseStats: {hp: 80, atk: 82, def: 78, spa: 95, spd: 80, spe: 85},
 		abilities: {0: "Imposter", 1: "Technician", H: "Steelworker"},
 		heightm: 1.7,
@@ -19711,7 +19711,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	pringle: {
 		num: 30056,
 		name: "Pringle",
-		types: ["Fairy", "Fight"],
+		types: ["Fairy", "Fighting"],
 		baseStats: {hp: 76, atk: 104, def: 71, spa: 104, spd: 71, spe: 108},
 		abilities: {0: "Flash Fire", 1: "Trace", H: "Moxie"},
 		heightm: 1.2,
@@ -19832,7 +19832,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	nosferatu: {
 		num: 500006,
 		name: "NOSFERATU",
-		types: ["Steel", "Fight"],
+		types: ["Steel", "Fighting"],
 		baseStats: {hp: 85, atk: 70, def: 80, spa: 97, spd: 80, spe: 123},
 		abilities: {0: "Blitz Boxer", 1: "Lightning Rod"},
 		heightm: 1.5,
@@ -19868,7 +19868,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	agentesn: {
 		num: 500008,
 		name: "AGENTE SN",
-		types: ["Fight"],
+		types: ["Fighting"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 70, atk: 85, def: 65, spa: 125, spd: 65, spe: 120},
 		abilities: {0: "Speed Boost", 1: "Poison Point"},
