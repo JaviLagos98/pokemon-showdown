@@ -5716,32 +5716,36 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)"
 	},
+	camilomega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 	crazycuac: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	juanmagan: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	tejero: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	pringle: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	chicote: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	megachonk: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	aitana: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 };
