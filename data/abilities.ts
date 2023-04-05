@@ -5219,7 +5219,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		onAfterMoveSecondarySelf(pokemon, target, move) {
 			if (!target || target.fainted || target.hp <= 0) {
 				if (pokemon.volatiles['mustrecharge']) {
-					this.add('-ability', pokemon, 'Last Minute Lag');
+					this.add('-ability', pokemon, 'Rampage');
 					this.add('-end', pokemon, 'mustrecharge');
 					delete pokemon.volatiles['mustrecharge'];
 					this.hint('This pokemon is on a Rampage! It\'s ready to keep attacking!');

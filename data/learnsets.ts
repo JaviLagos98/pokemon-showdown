@@ -94341,4 +94341,68 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			precipiceblades: ["8L0"],
 		}
 	},
+	camilo: {
+		learnset: {
+			secretsword: ["8L0"],
+			clangingscales: ["8L0"],
+			hydrocannon: ["8L0"],
+			focusblast: ["8L0"],
+		}
+	},
+	crazycuac: {
+		learnset: {
+			rairywind: ["8L0"],
+			secretsword: ["8L0"],
+			furycutter: ["8L0"],
+			focusblast: ["8L0"],
+		}
+	},
+	juanmagan: {
+		learnset: {
+			breakingswipe: ["8L0"],
+			technoblast: ["8L0"],
+			clangingscales: ["8L0"],
+			bravebird: ["8L0"],
+		}
+	},
+	tejero: {
+		learnset: {
+			whirlpool: ["8L0"],
+			freezedry: ["8L0"],
+			scald: ["8L0"],
+			hydrocannon: ["8L0"],
+		}
+	},
+	pringle: {
+		learnset: {
+			drainpunch: ["8L0"],
+			karatechop: ["8L0"],
+			prasmaticlaser: ["8L0"],
+			playrough: ["8L0"],
+		}
+	},
+	chicote: {
+		learnset: {
+			darkestlariat: ["8L0"],
+			foulplay: ["8L0"],
+			crunch: ["8L0"],
+			solarblade: ["8L0"],
+		}
+	},
+	megachonk: {
+		learnset: {
+			xscissor: ["8L0"],
+			firstimpression: ["8L0"],
+			megahorn: ["8L0"],
+			flipturn: ["8L0"],
+		}
+	},
+	aitana: {
+		learnset: {
+			blazekick: ["8L0"],
+			flamecharge: ["8L0"],
+			firepunch: ["8L0"],
+			hydrocannon: ["8L0"],
+		}
+	}
 };

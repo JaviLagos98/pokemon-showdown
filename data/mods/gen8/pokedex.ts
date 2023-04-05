@@ -175,5 +175,37 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	balat: {
 		inherit: true,
 		abilities: {0: "Mirror Armor", 1: "Protean", H: "Sniper"},
+	},
+	andyb: {
+		inherit: true,
+		abilities: {0: "Steely spirit", 1: "Insomnia", H: "Chloroplast"},
+	},
+	michi: {
+		inherit: true,
+		abilities: {0: "Pure Power", 1: "Stall", H: "Soul-Heart"},
+	},
+	punki: {
+		inherit: true,
+		abilities: {0: "ChillingNeigh", 1: "Swift Swim", H: "Guts"},
+	},
+	naruto: {
+		inherit: true,
+		abilities: {0: "Cheek Pouch", 1: "Drought Dream", H: "Big Pecks"},
+	},
+	lola: {
+		inherit: true,
+		abilities: {0: "Moody", 1: "Battery", H: "Stalwart"},
+	},
+	dualipa: {
+		inherit: true,
+		abilities: {0: "Quick Feet", 1: "Magic Guard", H: "Ripen"},
+	},
+	badgyal: {
+		inherit: true,
+		abilities: {0: "Rivalry", 1: "Technician", H: "Speed Boost"},
+	},
+	acerakion: {
+		inherit: true,
+		abilities: {0: "Steam Engine", 1: "Flame Body", H: "Fur Coat"},
 	}
 };

@@ -6346,5 +6346,69 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	balat: {
 		tier: "NU",
 		doublesTier: "(DUU)"
+	},
+	andyb: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	michi: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	punki: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	naruto: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	lola: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	dualipa: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	badgyal: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	acerakion: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	camilo: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	crazycuac: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	juanmagan: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	tejero: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	pringle: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	chicote: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	megachonk: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	aitana: {
+		tier: "NU",
+		doublesTier: "(DUU)"
 	}
 };

@@ -7585,5 +7585,19 @@ export const Items: {[itemid: string]: ItemData} = {
 		num: 761,
 		gen: 6,
 		isNonstandard: "Past",
+	},
+	camiloite: {
+		name: "CAMILOite",
+		spritenum: 608,
+		megaStone: "CAMILO-Mega",
+		megaEvolves: "CAMILO",
+		itemUser: ["CAMILO"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 659,
+		gen: 6,
+		isNonstandard: "Past",
 	}
 };
