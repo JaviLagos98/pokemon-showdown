@@ -5602,119 +5602,119 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	},
 	pigardoom: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	conchity: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	ironjuan: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	magopop: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	magopopmega: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	prendeporros: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	prendeporrosmega: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	pinkchariot: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	gymbrock: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	trece: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	trecemega: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	mecadennis: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	hyojinmaru: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	croqueto: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	nessie: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	jormungand: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	jormungandmega: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	behel: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	pikachudoubt: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	balat: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	andyb: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	michi: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	punki: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	naruto: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	lola: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	dualipa: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	badgyal: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	acerakion: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	camilo: {
 		tier: "NU",
-		doublesTier: "(DUU)"
+		doublesTier: "(DUU)",
 	},
 	camilomega: {
 		tier: "NU",

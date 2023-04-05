@@ -7600,4 +7600,32 @@ export const Items: {[itemid: string]: ItemData} = {
 		gen: 6,
 		isNonstandard: "Past",
 	},
+	winduite: {
+		name: "WINDUite",
+		spritenum: 608,
+		megaStone: "WINDU-Mega",
+		megaEvolves: "WINDU",
+		itemUser: ["WINDU"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 659,
+		gen: 6,
+		isNonstandard: "Past",
+	},
+	charizardntite: {
+		name: "CHARIZARDntite",
+		spritenum: 608,
+		megaStone: "CHARIZARDnt-Mega",
+		megaEvolves: "CHARIZARDnt",
+		itemUser: ["CHARIZARDnt"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 659,
+		gen: 6,
+		isNonstandard: "Past",
+	},
 };

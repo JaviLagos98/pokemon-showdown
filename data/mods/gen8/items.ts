@@ -743,4 +743,12 @@ export const Items: {[k: string]: ModdedItemData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
+	winduite: {
+		inherit: true,
+		isNonstandard: null,
+	},
+	charizardntite: {
+		inherit: true,
+		isNonstandard: null,
+	},
 };

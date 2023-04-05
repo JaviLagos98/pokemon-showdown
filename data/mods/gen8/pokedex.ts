@@ -208,4 +208,48 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Steam Engine", 1: "Flame Body", H: "Fur Coat"},
 	},
+	yoloking: {
+		inherit: true,
+		abilities: {0: "Defiant"},
+	},
+	yolokingmega: {
+		inherit: true,
+		abilities: {0: "Defiant"},
+	},
+	rayguazas: {
+		inherit: true,
+		abilities: {0: "Grim Neigh"},
+	},
+	windu: {
+		inherit: true,
+		abilities: {0: "Fur Coat"},
+	},
+	windumega: {
+		inherit: true,
+		abilities: {0: "Fur Coat"},
+	},
+	nosferatu: {
+		inherit: true,
+		abilities: {0: "Blitz Boxer", 1: "Lightning Rod"},
+	},
+	hobogoblin: {
+		inherit: true,
+		abilities: {0: "Defiant", 1: "Dry Skin"},
+	},
+	rocodromer: {
+		inherit: true,
+		abilities: {0: "Magnet Pull", 1: "Sturdy", H: "Galvanize"},
+	},
+	agentesn: {
+		inherit: true,
+		abilities: {0: "Speed Boost", 1: "Poison Point"},
+	},
+	charizardont: {
+		inherit: true,
+		abilities: {0: "Intimidate", H: "Moxie"},
+	},
+	charizardontmega: {
+		inherit: true,
+		abilities: {0: "Intimidate"},
+	},
 };

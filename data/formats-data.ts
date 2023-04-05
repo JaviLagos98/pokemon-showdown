@@ -6415,4 +6415,48 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	yoloking: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	yolokingmega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rayguazas: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	windu: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	windumega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	nosferatu: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	hobogoblin: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rocodromer: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	agentesn: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	charizardont: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	charizardontmega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };

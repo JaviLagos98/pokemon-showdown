@@ -94461,4 +94461,68 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			avalanche: ["8L0"],
 		},
 	},
+	yoloking: {
+		learnset: {
+			partingshot: ["8L0"],
+			plasmafists: ["8L0"],
+			thundercage: ["8L0"],
+			hurricane: ["8L0"],
+		},
+	},
+	rayguazas: {
+		learnset: {
+			bugbuzz: ["8L0"],
+			clangingscales: ["8L0"],
+			hydropump: ["8L0"],
+			tailglow: ["8L0"],
+		},
+	},
+	windu: {
+		learnset: {
+			hurricane: ["8L0"],
+			cosmicpower: ["8L0"],
+			aeroblast: ["8L0"],
+			earthpower: ["8L0"],
+		},
+	},
+	nosferatu: {
+		learnset: {
+			gigadrain: ["8L0"],
+			shiftgear: ["8L0"],
+			moongeistbeam: ["8L0"],
+			focusblast: ["8L0"],
+		},
+	},
+	hobogoblin: {
+		learnset: {
+			powergem: ["8L0"],
+			stoneedge: ["8L0"],
+			irondefense: ["8L0"],
+			topsyturvy: ["8L0"],
+		},
+	},
+	rocodromer: {
+		learnset: {
+			boltstrike: ["8L0"],
+			brickbreak: ["8L0"],
+			stoneedge: ["8L0"],
+			meteorassault: ["8L0"],
+		},
+	},
+	agentesn: {
+		learnset: {
+			boomburst: ["8L0"],
+			magmastorm: ["8L0"],
+			bulkup: ["8L0"],
+			aurasphere: ["8L0"],
+		},
+	},
+	charizardont: {
+		learnset: {
+			precipiceblades: ["8L0"],
+			sappyseed: ["8L0"],
+			attackorder: ["8L0"],
+			shadowforce: ["8L0"],
+		},
+	},
 };
