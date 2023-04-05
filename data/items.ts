@@ -7572,4 +7572,18 @@ export const Items: {[itemid: string]: ItemData} = {
 		gen: 6,
 		isNonstandard: "Past",
 	},
+	jormungandite: {
+		name: "Jormungandite",
+		spritenum: 586,
+		megaStone: "Jormungandite-Mega",
+		megaEvolves: "Jormungandite",
+		itemUser: ["Jormungandite"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 678,
+		gen: 6,
+		isNonstandard: "Past",
+	},
 };

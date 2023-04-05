@@ -114,7 +114,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	magopopmega: {
 		inherit: true,
-		abilities: {0: "Protean", 1: "Flare Boost", H: "Soul-Heart"},
+		abilities: {0: "Protean"},
 	},
 	prendeporros: {
 		inherit: true,
@@ -122,7 +122,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	prendeporrosmega: {
 		inherit: true,
-		abilities: {0: "Iron Barbs", 1: "Aftermath", H: "Scrappy"},
+		abilities: {0: "Iron Barbs"},
 	},
 	pinkchariot: {
 		inherit: true,
@@ -138,10 +138,42 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	trecemega: {
 		inherit: true,
-		abilities: {0: "Shadow Shield", H: "Rampage"},
+		abilities: {0: "Rampage"},
 	},
-	venusaurmega: {
-		inherit: true, 
-		abilities: {0: "Thick Fat"},
+	mecadennis: {
+		inherit: true,
+		abilities: {0: "Motor Drive", H: "Victory Star"},
+	},
+	hyojinmaru: {
+		inherit: true,
+		abilities: {0: "Queenly Majesty", 1: "Galvanize", H: "Gale Winds"},
+	},
+	croqueto: {
+		inherit: true,
+		abilities: {0: "Huge Power", 1: "Corrosion", H: "Sand Spit"},
+	},
+	nessie: {
+		inherit: true,
+		abilities: {0: "Sand Force", 1: "Cursed Body", H: "Strong Jaw"},
+	},
+	jormungand: {
+		inherit: true,
+		abilities: {0: "Flash Fire", 1: "Trace", H: "Moxie"},
+	},
+	jormungandmega: {
+		inherit: true,
+		abilities: {0: "Moxie"},
+	},
+	behel: {
+		inherit: true,
+		abilities: {0: "Imposter", H: "Libero"},
+	},
+	pikachudoubt: {
+		inherit: true,
+		abilities: {0: "Neutralizing Gas", H: "Solid Rock"},
+	},
+	balat: {
+		inherit: true,
+		abilities: {0: "Mirror Armor", 1: "Protean", H: "Sniper"},
 	},
 };

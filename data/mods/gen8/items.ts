@@ -735,8 +735,8 @@ export const Items: {[k: string]: ModdedItemData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
-	venusaurite: {
-		inherit:true,
+	jormungandite: {
+		inherit: true,
 		isNonstandard: null,
 	},
 };

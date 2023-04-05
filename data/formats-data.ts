@@ -6310,5 +6310,41 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	trecemega: {
 		tier: "NU",
 		doublesTier: "(DUU)"
+	},
+	mecadennis: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	hyojinmaru: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	croqueto: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	nessie: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	jormungand: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	jormungandmega: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	behel: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	pikachudoubt: {
+		tier: "NU",
+		doublesTier: "(DUU)"
+	},
+	balat: {
+		tier: "NU",
+		doublesTier: "(DUU)"
 	}
 };
