@@ -19932,7 +19932,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	algo: {
 		num: 80003,
 		name: "Algo",
-		types: ["Roca","Acero"],
+		types: ["Rock","Steel"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 85, atk: 60, def: 65, spa: 135, spd: 105, spe: 100},
 		abilities: {0: "Flower Veil", 1: "Truant", H: "Light Metal"},
@@ -19996,7 +19996,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "ACAB-Mega",
 		baseSpecies: "ACAB",
 		forme: "Mega",
-		types: ["Steel", "Flying"],
+		types: ["Steel", "Fighting"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 80, atk: 160, def: 80, spa: 130, spd: 80, spe: 100},
 		abilities: {0: "Competitive", 1: "Screen Cleaner", H: "Triage"},
