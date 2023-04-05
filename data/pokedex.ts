@@ -19512,7 +19512,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	pikachudoubt: {
 		num: 20057,
-		name: "Pikachu?",
+		name: "Pikachunt",
 		types: ["Grass", "Ground"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 78, atk: 84, def: 78, spa: 109, spd: 85, spe: 100},
