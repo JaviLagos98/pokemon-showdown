@@ -94404,5 +94404,62 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			firepunch: ["8L0"],
 			hydrocannon: ["8L0"],
 		}
+	},
+	andyb: {
+		learnset: {
+			waterspout: ["8L0"],
+			sparklyswirl: ["8L0"],
+			muddywater: ["8L0"],
+			fusionflare: ["8L0"],
+		}
+	},
+	michi: {
+		learnset: {
+			shadowforce: ["8L0"],
+			moongeistbeam: ["8L0"],
+			shadowclaw: ["8L0"],
+			karatechop: ["8L0"],
+		}
+	},
+	punki: {
+		learnset: {
+			sacredfire: ["8L0"],
+			skyuppercut: ["8L0"],
+			precipiceblades: ["8L0"],
+			sunnyday: ["8L0"],
+		}
+	},
+	lola: {
+		learnset: {
+			breakingswipe: ["8L0"],
+			behemothblade: ["8L0"],
+			powertrip: ["8L0"],
+			iciclecrash: ["8L0"],
+		}
+	},
+	dualipa: {
+		learnset: {
+			playrough: ["8L0"],
+			solarblade: ["8L0"],
+			precipiceblades: ["8L0"],
+			bulkup: ["8L0"],
+		}
+	},
+	badgyal: {
+		learnset: {
+			baddybad: ["8L0"],
+			toxic: ["8L0"],
+			venoshock: ["8L0"],
+			fairywind: ["8L0"],
+		}
+	},
+	acerakion: {
+		learnset: {
+			behemothblade: ["8L0"],
+			floatyfall: ["8L0"],
+			bulldoze: ["8L0"],
+			avalanche: ["8L0"],
+		}
 	}
+
 };
