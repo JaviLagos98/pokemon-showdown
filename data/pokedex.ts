@@ -19442,8 +19442,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	croqueto: {
 		num: 20053,
 		name: "Croqueto",
-		baseSpecies: "Croqueto-Kanto",
-		forme: "Galar",
 		types: ["Rock", "Bug"],
 		baseStats: {hp: 65, atk: 100, def: 70, spa: 80, spd: 80, spe: 105},
 		abilities: {0: "Huge Power", 1: "Corrosion", H: "Sand Spit"},
@@ -19524,5 +19522,5 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 206.5,
 		color: "Brown",
 		eggGroups: ["Monster", "Dragon"],
-	},
+	}
 };

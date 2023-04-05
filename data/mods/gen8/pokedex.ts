@@ -175,5 +175,5 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	balat: {
 		inherit: true,
 		abilities: {0: "Mirror Armor", 1: "Protean", H: "Sniper"},
-	},
+	}
 };

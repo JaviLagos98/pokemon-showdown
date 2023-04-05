@@ -738,5 +738,5 @@ export const Items: {[k: string]: ModdedItemData} = {
 	jormungandite: {
 		inherit: true,
 		isNonstandard: null,
-	},
+	}
 };
