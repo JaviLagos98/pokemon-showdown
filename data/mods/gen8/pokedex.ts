@@ -207,5 +207,5 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	acerakion: {
 		inherit: true,
 		abilities: {0: "Steam Engine", 1: "Flame Body", H: "Fur Coat"},
-	}
+	},
 };

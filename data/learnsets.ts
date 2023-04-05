@@ -94306,7 +94306,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			astralbarrage: ["8L0"],
 			fierywrath: ["8L0"],
 			psystrike: ["8L0"],
-		}
+		},
 	},
 	prendeporros: {
 		learnset: {
@@ -94314,7 +94314,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			scorchingsands: ["8L0"],
 			appleacid: ["8L0"],
 			photongeyser: ["8L0"],
-		}
+		},
 	},
 	gymbrock: {
 		learnset: {
@@ -94322,7 +94322,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			precipiceblades: ["8L0"],
 			tripleaxel: ["8L0"],
 			volttackle: ["8L0"],
-		}
+		},
 	},
 	pinkchariot: {
 		learnset: {
@@ -94330,7 +94330,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			spiritbreak: ["8L0"],
 			doubleironbash: ["8L0"],
 			flipturn: ["8L0"],
-		}
+		},
 	},
 	trece: {
 		learnset: {
@@ -94339,7 +94339,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			iceshard: ["8L0"],
 			obstruct: ["8L0"],
 			precipiceblades: ["8L0"],
-		}
+		},
 	},
 	camilo: {
 		learnset: {
@@ -94347,7 +94347,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			clangingscales: ["8L0"],
 			hydrocannon: ["8L0"],
 			focusblast: ["8L0"],
-		}
+		},
 	},
 	crazycuac: {
 		learnset: {
@@ -94355,7 +94355,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			secretsword: ["8L0"],
 			furycutter: ["8L0"],
 			focusblast: ["8L0"],
-		}
+		},
 	},
 	juanmagan: {
 		learnset: {
@@ -94363,7 +94363,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			technoblast: ["8L0"],
 			clangingscales: ["8L0"],
 			bravebird: ["8L0"],
-		}
+		},
 	},
 	tejero: {
 		learnset: {
@@ -94371,7 +94371,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			freezedry: ["8L0"],
 			scald: ["8L0"],
 			hydrocannon: ["8L0"],
-		}
+		},
 	},
 	pringle: {
 		learnset: {
@@ -94379,7 +94379,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			karatechop: ["8L0"],
 			prasmaticlaser: ["8L0"],
 			playrough: ["8L0"],
-		}
+		},
 	},
 	chicote: {
 		learnset: {
@@ -94387,7 +94387,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			foulplay: ["8L0"],
 			crunch: ["8L0"],
 			solarblade: ["8L0"],
-		}
+		},
 	},
 	megachonk: {
 		learnset: {
@@ -94395,7 +94395,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			firstimpression: ["8L0"],
 			megahorn: ["8L0"],
 			flipturn: ["8L0"],
-		}
+		},
 	},
 	aitana: {
 		learnset: {
@@ -94403,7 +94403,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			flamecharge: ["8L0"],
 			firepunch: ["8L0"],
 			hydrocannon: ["8L0"],
-		}
+		},
 	},
 	andyb: {
 		learnset: {
@@ -94411,7 +94411,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			sparklyswirl: ["8L0"],
 			muddywater: ["8L0"],
 			fusionflare: ["8L0"],
-		}
+		},
 	},
 	michi: {
 		learnset: {
@@ -94419,7 +94419,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			moongeistbeam: ["8L0"],
 			shadowclaw: ["8L0"],
 			karatechop: ["8L0"],
-		}
+		},
 	},
 	punki: {
 		learnset: {
@@ -94427,7 +94427,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			skyuppercut: ["8L0"],
 			precipiceblades: ["8L0"],
 			sunnyday: ["8L0"],
-		}
+		},
 	},
 	lola: {
 		learnset: {
@@ -94435,7 +94435,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			behemothblade: ["8L0"],
 			powertrip: ["8L0"],
 			iciclecrash: ["8L0"],
-		}
+		},
 	},
 	dualipa: {
 		learnset: {
@@ -94443,7 +94443,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			solarblade: ["8L0"],
 			precipiceblades: ["8L0"],
 			bulkup: ["8L0"],
-		}
+		},
 	},
 	badgyal: {
 		learnset: {
@@ -94451,7 +94451,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			toxic: ["8L0"],
 			venoshock: ["8L0"],
 			fairywind: ["8L0"],
-		}
+		},
 	},
 	acerakion: {
 		learnset: {
@@ -94459,6 +94459,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			floatyfall: ["8L0"],
 			bulldoze: ["8L0"],
 			avalanche: ["8L0"],
-		}
-	}
+		},
+	},
 };

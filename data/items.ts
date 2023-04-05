@@ -7599,5 +7599,5 @@ export const Items: {[itemid: string]: ItemData} = {
 		num: 659,
 		gen: 6,
 		isNonstandard: "Past",
-	}
+	},
 };

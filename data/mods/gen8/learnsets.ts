@@ -33,7 +33,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			astralbarrage: ["8L0"],
 			fierywrath: ["8L0"],
 			psystrike: ["8L0"],
-		}
+		},
 	},
 	prendeporros: {
 		learnset: {
@@ -41,7 +41,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			scorchingsands: ["8L0"],
 			appleacid: ["8L0"],
 			photongeyser: ["8L0"],
-		}
+		},
 	},
 	gymbrock: {
 		learnset: {
@@ -49,7 +49,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			precipiceblades: ["8L0"],
 			tripleaxel: ["8L0"],
 			volttackle: ["8L0"],
-		}
+		},
 	},
 	pinkchariot: {
 		learnset: {
@@ -57,7 +57,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			spiritbreak: ["8L0"],
 			doubleironbash: ["8L0"],
 			flipturn: ["8L0"],
-		}
+		},
 	},
 	trece: {
 		learnset: {
@@ -66,7 +66,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			iceshard: ["8L0"],
 			obstruct: ["8L0"],
 			precipiceblades: ["8L0"],
-		}
+		},
 	},
 	camilo: {
 		learnset: {
@@ -74,7 +74,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			clangingscales: ["8L0"],
 			hydrocannon: ["8L0"],
 			focusblast: ["8L0"],
-		}
+		},
 	},
 	crazycuac: {
 		learnset: {
@@ -82,7 +82,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			secretsword: ["8L0"],
 			furycutter: ["8L0"],
 			focusblast: ["8L0"],
-		}
+		},
 	},
 	juanmagan: {
 		learnset: {
@@ -90,7 +90,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			technoblast: ["8L0"],
 			clangingscales: ["8L0"],
 			bravebird: ["8L0"],
-		}
+		},
 	},
 	tejero: {
 		learnset: {
@@ -98,7 +98,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			freezedry: ["8L0"],
 			scald: ["8L0"],
 			hydrocannon: ["8L0"],
-		}
+		},
 	},
 	pringle: {
 		learnset: {
@@ -106,7 +106,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			karatechop: ["8L0"],
 			prasmaticlaser: ["8L0"],
 			playrough: ["8L0"],
-		}
+		},
 	},
 	chicote: {
 		learnset: {
@@ -114,7 +114,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			foulplay: ["8L0"],
 			crunch: ["8L0"],
 			solarblade: ["8L0"],
-		}
+		},
 	},
 	megachonk: {
 		learnset: {
@@ -122,7 +122,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			firstimpression: ["8L0"],
 			megahorn: ["8L0"],
 			flipturn: ["8L0"],
-		}
+		},
 	},
 	aitana: {
 		learnset: {
@@ -130,6 +130,62 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			flamecharge: ["8L0"],
 			firepunch: ["8L0"],
 			hydrocannon: ["8L0"],
-		}
-	}
+		},
+	},
+	andyb: {
+		learnset: {
+			waterspout: ["8L0"],
+			sparklyswirl: ["8L0"],
+			muddywater: ["8L0"],
+			fusionflare: ["8L0"],
+		},
+	},
+	michi: {
+		learnset: {
+			shadowforce: ["8L0"],
+			moongeistbeam: ["8L0"],
+			shadowclaw: ["8L0"],
+			karatechop: ["8L0"],
+		},
+	},
+	punki: {
+		learnset: {
+			sacredfire: ["8L0"],
+			skyuppercut: ["8L0"],
+			precipiceblades: ["8L0"],
+			sunnyday: ["8L0"],
+		},
+	},
+	lola: {
+		learnset: {
+			breakingswipe: ["8L0"],
+			behemothblade: ["8L0"],
+			powertrip: ["8L0"],
+			iciclecrash: ["8L0"],
+		},
+	},
+	dualipa: {
+		learnset: {
+			playrough: ["8L0"],
+			solarblade: ["8L0"],
+			precipiceblades: ["8L0"],
+			bulkup: ["8L0"],
+		},
+	},
+	badgyal: {
+		learnset: {
+			baddybad: ["8L0"],
+			toxic: ["8L0"],
+			venoshock: ["8L0"],
+			fairywind: ["8L0"],
+		},
+	},
+	acerakion: {
+		learnset: {
+			behemothblade: ["8L0"],
+			floatyfall: ["8L0"],
+			bulldoze: ["8L0"],
+			avalanche: ["8L0"],
+		},
+	},
 };

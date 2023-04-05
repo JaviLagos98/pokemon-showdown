@@ -5743,5 +5743,5 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	aitana: {
 		tier: "NU",
 		doublesTier: "(DUU)"
-	}
+	},
 };
