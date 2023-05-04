@@ -94607,10 +94607,10 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	},
 	hyojinmaru: {
 		learnset: {
-			frenzyplant: ["8L0"],
-			aeroblast: ["8L0"],
-			toxicspikes: ["8L0"],
-			grasswhistle: ["8L0"],
+			multiattack: ["8L0"],
+			dragondance: ["8L0"],
+			outrage: ["8L0"],
+			tripleaxel: ["8L0"],
 		},
 	},
 	croqueto: {
