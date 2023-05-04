@@ -19852,7 +19852,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Fairy", "Human-Like"],
 	},
 	rocodromer: {
-		num: 500007,
+		num: 500010,
 		name: "Rocodromer",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 90, atk: 135, def: 130, spa: 55, spd: 65, spe: 45},
