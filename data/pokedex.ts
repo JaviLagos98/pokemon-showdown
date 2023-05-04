@@ -19510,9 +19510,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Monster"],
 		gen: 8,
 	},
-	pikachudoubt: {
+	pikadont: {
 		num: 20057,
-		name: "Pikachunt",
+		name: "Pikadont",
 		types: ["Grass", "Ground"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 78, atk: 84, def: 78, spa: 109, spd: 85, spe: 100},
@@ -19854,12 +19854,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	rocodromer: {
 		num: 500007,
-		name: "Golem-Alola",
-		baseSpecies: "Golem",
-		forme: "Alola",
+		name: "Rocodromer",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 90, atk: 135, def: 130, spa: 55, spd: 65, spe: 45},
-		abilities: {0: "Magnet Pull", 1: "Sturdy", H: "Galvanize"},
+		abilities: {0: "Ice Scales"},
 		heightm: 1.7,
 		weightkg: 316,
 		color: "Gray",

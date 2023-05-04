@@ -94344,7 +94344,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	camilo: {
 		learnset: {
 			secretsword: ["8L0"],
-			clangingscales: ["8L0"],
+			fireblast: ["8L0"],
 			hydrocannon: ["8L0"],
 			focusblast: ["8L0"],
 		},
@@ -94377,7 +94377,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 		learnset: {
 			drainpunch: ["8L0"],
 			karatechop: ["8L0"],
-			prasmaticlaser: ["8L0"],
+			prismaticlaser: ["8L0"],
 			playrough: ["8L0"],
 		},
 	},
@@ -94587,6 +94587,14 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			oblivionwing: ["8L0"],
 			grasspledge: ["8L0"],
 			fusionbolt: ["8L0"],
+		},
+	},
+	pikadont: {
+		learnset: {
+			frenzyplant: ["8L0"],
+			aeroblast: ["8L0"],
+			toxicspikes: ["8L0"],
+			grasswhistle: ["8L0"],
 		},
 	},
 };
