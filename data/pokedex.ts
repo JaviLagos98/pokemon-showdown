@@ -19916,7 +19916,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	goro: {
 		num: 80002,
 		name: "Goro",
-		types: ["Lucha"],
+		types: ["Fighting"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 160, atk: 110, def: 65, spa: 65, spd: 110, spe: 30},
 		abilities: {0: "Unseen Fist", 1: "Magic Guard", H: "Quick Feet"},

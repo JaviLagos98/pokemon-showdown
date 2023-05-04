@@ -94560,7 +94560,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	jorginna: {
 		learnset: {
 			extremespeed: ["8L0"],
-			blotstrike: ["8L0"],
+			boltstrike: ["8L0"],
 			megahorn: ["8L0"],
 			dragondance: ["8L0"],
 		},
@@ -94595,6 +94595,62 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			aeroblast: ["8L0"],
 			toxicspikes: ["8L0"],
 			grasswhistle: ["8L0"],
+		},
+	},
+	mecadennis: {
+		learnset: {
+			flowershield: ["8L0"],
+			ingrain: ["8L0"],
+			spikes: ["8L0"],
+			stealthrock: ["8L0"],
+		},
+	},
+	hyojinmaru: {
+		learnset: {
+			frenzyplant: ["8L0"],
+			aeroblast: ["8L0"],
+			toxicspikes: ["8L0"],
+			grasswhistle: ["8L0"],
+		},
+	},
+	croqueto: {
+		learnset: {
+			rockclimb: ["8L0"],
+			headsmash: ["8L0"],
+			flamecharge: ["8L0"],
+			volttackle: ["8L0"],
+		},
+	},
+	nessie: {
+		learnset: {
+			vcreate: ["8L0"],
+			ominouswind: ["8L0"],
+			astralbarrage: ["8L0"],
+			quiverdance: ["8L0"],
+		},
+	},
+	jormungand: {
+		learnset: {
+			retaliate: ["8L0"],
+			heatcrash: ["8L0"],
+			wideguard: ["8L0"],
+			shiftgear: ["8L0"],
+		},
+	},
+	balat: {
+		learnset: {
+			waterfall: ["8L0"],
+			steelwing: ["8L0"],
+			shiftgear: ["8L0"],
+			sacredfire: ["8L0"],
+		},
+	},
+	behel: {
+		learnset: {
+			precipiceblades: ["8L0"],
+			bravebird: ["8L0"],
+			aerialace: ["8L0"],
+			aquatail: ["8L0"],
 		},
 	},
 };
