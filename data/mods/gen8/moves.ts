@@ -301,7 +301,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	icehammer: {
 		inherit: true,
-		isNonstandard: "Past",
+		isNonstandard: null,
 	},
 	judgment: {
 		inherit: true,
@@ -649,5 +649,9 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	wickedblow: {
 		inherit: true,
 		basePower: 80,
+	},
+	grasswhistle: {
+		inherit: true,
+		isNonstandard: null,
 	},
 };

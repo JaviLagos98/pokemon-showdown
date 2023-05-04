@@ -5229,4 +5229,17 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		name: "Rampage",
 		gen: 8,
 	},
+	blitzboxer: {
+		desc: "This Pokemon's punching moves increase Priority by 1.",
+		shortDesc: "Punch Priority +1.",
+		onModifyPriority(priority, pokemon, target, move) {
+			if (move.flags['punch']) {
+				return priority + 1;
+			}
+		},
+		name: "Blitz Boxer",
+		rating: 3.5,
+		num: 999,
+		gen: 8,
+	},
 };
