@@ -71,7 +71,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 	camilo: {
 		learnset: {
 			secretsword: ["8L0"],
-			clangingscales: ["8L0"],
+			fireblast: ["8L0"],
 			hydrocannon: ["8L0"],
 			focusblast: ["8L0"],
 		},
@@ -104,7 +104,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 		learnset: {
 			drainpunch: ["8L0"],
 			karatechop: ["8L0"],
-			prasmaticlaser: ["8L0"],
+			prismaticlaser: ["8L0"],
 			playrough: ["8L0"],
 		},
 	},
