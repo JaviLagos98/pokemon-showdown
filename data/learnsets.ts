@@ -94461,6 +94461,14 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			avalanche: ["8L0"],
 		},
 	},
+	naruto: {
+		learnset: {
+			voltswitch: ["8L0"],
+			flipturn: ["8L0"],
+			fusionflare: ["8L0"],
+			boomburst: ["8L0"],
+		},
+	},
 	yoloking: {
 		learnset: {
 			partingshot: ["8L0"],

@@ -669,5 +669,9 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	tailglow: {
 		inherit: true,
 		isNonstandard: null,
+	},
+	skyuppercut: {
+		inherit: true,
+		isNonstandard: null,
 	}
 };

@@ -186,7 +186,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	punki: {
 		inherit: true,
-		abilities: {0: "ChillingNeigh", 1: "Swift Swim", H: "Guts"},
+		abilities: {0: "Chilling Neigh", 1: "Swift Swim", H: "Guts"},
 	},
 	naruto: {
 		inherit: true,
