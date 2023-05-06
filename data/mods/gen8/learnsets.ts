@@ -295,7 +295,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 	jorginna: {
 		learnset: {
 			extremespeed: ["8L0"],
-			blotstrike: ["8L0"],
+			boltstrike: ["8L0"],
 			megahorn: ["8L0"],
 			dragondance: ["8L0"],
 		},
