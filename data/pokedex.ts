@@ -19567,7 +19567,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Punki",
 		types: ["Ground", "Fire"],
 		baseStats: {hp: 85, atk: 105, def: 100, spa: 69, spd: 83, spe: 88},
-		abilities: {0: "ChillingNeigh", 1: "Swift Swim", H: "Guts"},
+		abilities: {0: "Chilling Neigh", 1: "Swift Swim", H: "Guts"},
 		heightm: 2.3,
 		weightkg: 88.8,
 		color: "Blue",
