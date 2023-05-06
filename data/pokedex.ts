@@ -19786,6 +19786,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Green",
 		eggGroups: ["Monster", "Grass"],
 		requiredItem: "YOLOKINGite",
+		gen: 8,
 	},
 	rayguazas: {
 		num: 500004,
@@ -19798,6 +19799,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 206.5,
 		color: "Green",
 		eggGroups: ["Undiscovered"],
+		gen: 8,
 	},
 	windu: {
 		num: 500005,
@@ -19812,6 +19814,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like"],
 		otherFormes: ["WINDU-Mega"],
 		formeOrder: ["WINDU", "WINDU-Mega"],
+		gen: 8,
 	},
 	windumega: {
 		num: 500005,
@@ -19827,6 +19830,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Brown",
 		eggGroups: ["Human-Like"],
 		requiredItem: "WINDUite",
+		gen: 8,
 	},
 	nosferatu: {
 		num: 500006,
@@ -19838,6 +19842,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 85,
 		color: "Purple",
 		eggGroups: ["Flying", "Dragon"],
+		gen: 8,
 	},
 	hobogoblin: {
 		num: 500007,
@@ -19850,17 +19855,19 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 61,
 		color: "Purple",
 		eggGroups: ["Fairy", "Human-Like"],
+		gen: 8,
 	},
 	rocodromer: {
 		num: 500010,
 		name: "Rocodromer",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 90, atk: 135, def: 130, spa: 55, spd: 65, spe: 45},
-		abilities: {0: "Ice Scales"},
+		abilities: {0: "Ice Scales", 1: "Lightning Rod", H: "Blaze"},
 		heightm: 1.7,
 		weightkg: 316,
 		color: "Gray",
 		eggGroups: ["Mineral"],
+		gen: 8,
 	},
 	agentesn: {
 		num: 500008,
@@ -19873,6 +19880,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 45.2,
 		color: "Blue",
 		eggGroups: ["Water 1", "Field"],
+		gen: 8,
 	},
 	charizardnt: {
 		num: 500009,
@@ -19886,6 +19894,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon"],
 		otherFormes: ["CHARIZARDnt-Mega"],
 		formeOrder: ["CHARIZARDnt", "CHARIZARDnt-Mega"],
+		gen: 8,
 	},
 	charizardntmega: {
 		num: 500009,
@@ -19900,6 +19909,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Blue",
 		eggGroups: ["Dragon"],
 		requiredItem: "CHARIZARDntite",
+		gen: 8,
 	},
 	mogikarp: {
 		num: 80001,
@@ -19912,6 +19922,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 235,
 		color: "Blue",
 		eggGroups: ["Water 2", "Dragon"],
+		gen: 8,
 	},
 	goro: {
 		num: 80002,
@@ -19925,6 +19936,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Black",
 		eggGroups: ["Monster"],
 		canHatch: true,
+		gen: 8,
 	},
 	algo: {
 		num: 80003,
@@ -19937,6 +19949,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 46,
 		color: "White",
 		eggGroups: ["Bug"],
+		gen: 8,
 	},
 	pelele: {
 		num: 80004,
@@ -19949,6 +19962,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 206.5,
 		color: "Green",
 		eggGroups: ["Undiscovered"],
+		gen: 8,
 	},
 	jorginna: {
 		num: 80005,
@@ -19961,6 +19975,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 310,
 		color: "Green",
 		eggGroups: ["Monster", "Grass"],
+		gen: 8,
 	},
 	patrisio: {
 		num: 80006,
@@ -19973,6 +19988,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 84.5,
 		color: "Blue",
 		eggGroups: ["Water 1", "Field"],
+		gen: 8,
 	},
 	acab: {
 		num: 80007,
@@ -19987,6 +20003,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Field"],
 		otherFormes: ["ACAB-Mega"],
 		formeOrder: ["ACAB", "ACAB-Mega"],
+		gen: 8,
 	},
 	acabmega: {
 		num: 80009,
@@ -20002,6 +20019,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Red",
 		eggGroups: ["Field"],
 		requiredItem: "ACABite",
+		gen: 8,
 	},
 	adolf: {
 		num: 80008,
@@ -20014,5 +20032,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 340,
 		color: "Gray",
 		eggGroups: ["Mineral"],
+		gen: 8,
 	},
 };

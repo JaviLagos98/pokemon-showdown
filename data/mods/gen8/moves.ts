@@ -665,5 +665,9 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	ominouswind: {
 		inherit: true,
 		isNonstandard: null,
+	},
+	tailglow: {
+		inherit: true,
+		isNonstandard: null,
 	}
 };

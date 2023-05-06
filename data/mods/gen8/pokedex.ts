@@ -238,7 +238,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	rocodromer: {
 		inherit: true,
-		abilities: {0: "Magnet Pull", 1: "Sturdy", H: "Galvanize"},
+		abilities: {0: "Ice Scales", 1: "Lightning Rod", H: "Blaze"},
 	},
 	agentesn: {
 		inherit: true,
@@ -246,11 +246,11 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	charizardnt: {
 		inherit: true,
-		abilities: {0: "Intimidate", H: "Moxie"},
+		abilities: {0: "Perish Body"},
 	},
 	charizardntmega: {
 		inherit: true,
-		abilities: {0: "Intimidate"},
+		abilities: {0: "Perish Body"},
 	},
 	mogikarp: {
 		inherit: true,
