@@ -473,7 +473,7 @@ export const Conditions: {[k: string]: ConditionData} = {
 			if (defender.hasItem('utilityumbrella')) return;
 			if (move.type === 'Water') {
 				this.debug('rain water boost');
-				return this.chainModify(1.5);
+				return this.chainModify(1.2);
 			}
 			if (move.type === 'Fire') {
 				this.debug('rain fire suppress');
@@ -514,7 +514,7 @@ export const Conditions: {[k: string]: ConditionData} = {
 			if (defender.hasItem('utilityumbrella')) return;
 			if (move.type === 'Water') {
 				this.debug('Rain water boost');
-				return this.chainModify(1.5);
+				return this.chainModify(1.2);
 			}
 		},
 		onFieldStart(field, source, effect) {
@@ -547,7 +547,7 @@ export const Conditions: {[k: string]: ConditionData} = {
 			if (defender.hasItem('utilityumbrella')) return;
 			if (move.type === 'Fire') {
 				this.debug('Sunny Day fire boost');
-				return this.chainModify(1.5);
+				return this.chainModify(1.2);
 			}
 			if (move.type === 'Water') {
 				this.debug('Sunny Day water suppress');
@@ -592,7 +592,7 @@ export const Conditions: {[k: string]: ConditionData} = {
 			if (defender.hasItem('utilityumbrella')) return;
 			if (move.type === 'Fire') {
 				this.debug('Sunny Day fire boost');
-				return this.chainModify(1.5);
+				return this.chainModify(1.2);
 			}
 		},
 		onFieldStart(field, source, effect) {
@@ -658,6 +658,12 @@ export const Conditions: {[k: string]: ConditionData} = {
 				return 8;
 			}
 			return 5;
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.hasType('Ice') && this.field.isWeather('hail')) {
+				return this.modify(def, 1.5);
+			}
 		},
 		onFieldStart(field, source, effect) {
 			if (effect?.effectType === 'Ability') {
