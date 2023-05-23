@@ -19687,7 +19687,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	juanmagan: {
 		num: 30054,
 		name: "JUANMAGAN",
-		types: ["Rock", "Bug"],
+		types: ["Dragon"],
 		baseStats: {hp: 90, atk: 110, def: 80, spa: 100, spd: 80, spe: 95},
 		abilities: {0: "Dauntless Shield", 1: "Huge power", H: "Dry skin"},
 		heightm: 0.7,
@@ -19699,7 +19699,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	tejero: {
 		num: 30055,
 		name: "Tejero",
-		types: ["Ghost", "Normal"],
+		types: ["Water"],
 		baseStats: {hp: 70, atk: 85, def: 65, spa: 125, spd: 65, spe: 120},
 		abilities: {0: "Fluffy", 1: "Early Bird", H: "Rock Head"},
 		heightm: 1.9,
