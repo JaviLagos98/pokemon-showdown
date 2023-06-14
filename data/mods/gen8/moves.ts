@@ -673,5 +673,14 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	skyuppercut: {
 		inherit: true,
 		isNonstandard: null,
+	},
+	rage: {
+		inherit:true,
+		isNonstandard: null,
+	},
+	clamp: {
+		inherit:true,
+		isNonstandard: null,
 	}
+
 };
