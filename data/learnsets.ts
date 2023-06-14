@@ -94341,6 +94341,14 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			precipiceblades: ["8L0"],
 		},
 	},
+	gloovoo: {
+		learnset: {
+			dracometeor: ["8L0"],
+			sludgewave: ["8L0"],
+			earthpower: ["8L0"],
+			quiverdance: ["8L0"],
+		},
+	},
 	camilo: {
 		learnset: {
 			secretsword: ["8L0"],
@@ -94515,6 +94523,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			brickbreak: ["8L0"],
 			stoneedge: ["8L0"],
 			meteorassault: ["8L0"],
+			aerialace: ["8L0"],
+			rage: ["8L0"],
+			clamp: ["8L0"],
 		},
 	},
 	agentesn: {

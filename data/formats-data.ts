@@ -6311,6 +6311,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	gloovoo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 	mecadennis: {
 		tier: "NU",
 		doublesTier: "(DUU)",

@@ -68,6 +68,14 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			precipiceblades: ["8L0"],
 		},
 	},
+	gloovoo: {
+		learnset: {
+			dracometeor: ["8L0"],
+			sludgewave: ["8L0"],
+			earthpower: ["8L0"],
+			quiverdance: ["8L0"],
+		},
+	},
 	camilo: {
 		learnset: {
 			secretsword: ["8L0"],

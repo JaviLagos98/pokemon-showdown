@@ -19420,6 +19420,18 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		requiredItem: "Treceite",
 		gen: 8,
 	},
+	gloovoo: {
+		num: 10008,
+		name: "GLOOVOO",
+		types: ["Ground", "Dragon"],
+		baseStats: {hp: 150, atk: 80, def: 54, spa: 90, spd: 74, spe: 80},
+		abilities: {0: "Clorophyll", 1: "Wimp Out", H: "Intrepid Sword"},
+		heightm: 0.4,
+		weightkg: 1.2,
+		color: "Purple",
+		eggGroups: ["Amorphous"],
+		gen: 8,
+	},
 	mecadennis: {
 		num: 20051,
 		name: "MecaDENNIS",
