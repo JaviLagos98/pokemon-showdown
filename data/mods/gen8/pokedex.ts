@@ -142,7 +142,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	gloovoo: {
 		inherit: true,
-		abilities: {0: "Clorophyll", 1: "Wimp Out", H: "Intrepid Sword"},
+		abilities: {0: "Chlorophyll", 1: "Wimp Out", H: "Intrepid Sword"},
 	},
 	mecadennis: {
 		inherit: true,

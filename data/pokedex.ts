@@ -19425,7 +19425,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "GLOOVOO",
 		types: ["Ground", "Dragon"],
 		baseStats: {hp: 150, atk: 80, def: 54, spa: 90, spd: 74, spe: 80},
-		abilities: {0: "Clorophyll", 1: "Wimp Out", H: "Intrepid Sword"},
+		abilities: {0: "Chlorophyll", 1: "Wimp Out", H: "Intrepid Sword"},
 		heightm: 0.4,
 		weightkg: 1.2,
 		color: "Purple",
