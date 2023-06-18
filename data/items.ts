@@ -7656,4 +7656,18 @@ export const Items: {[itemid: string]: ItemData} = {
 		gen: 6,
 		isNonstandard: "Past",
 	},
+	aitanaite: {
+		name: "Aitanaite",
+		spritenum: 608,
+		megaStone: "Aitana-Mega",
+		megaEvolves: "Aitana",
+		itemUser: ["Aitana"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 659,
+		gen: 6,
+		isNonstandard: "Past",
+	},
 };

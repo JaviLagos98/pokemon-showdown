@@ -292,4 +292,44 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Color Change", 1: "Turboblaze", H: "Cursed Body"},
 	},
+	camilo: {
+		inherit: true,
+		abilities: {0: "Libero", 1: "Sand Stream", H: "Cotton Down"},
+	},
+	camilomega: {
+		inherit: true,
+		abilities: {0: "Libero", 1: "Sand Stream", H: "Cotton Down"},
+	},
+	crazycuac: {
+		inherit: true,
+		abilities: {0: "Imposter", 1: "Technician", H: "Steelworker"},
+	},
+	juanmagan: {
+		inherit: true,
+		abilities: {0: "Dauntless Shield", 1: "Huge power", H: "Dry skin"},
+	},
+	tejero: {
+		inherit: true,
+		abilities: {0: "Fluffy", 1: "Early Bird", H: "Rock Head"},
+	},
+	pringle: {
+		inherit: true,
+		abilities: {0: "Stakeout"},
+	},
+	chicote: {
+		inherit: true,
+		abilities: {0: "Download", 1: "Cloud Nine", H: "Volt Absorb"},
+	},
+	megachonk: {
+		inherit: true,
+		abilities: {0: "Cursed Body", H: "Solid Rock"},
+	},
+	aitana: {
+		inherit: true,
+		abilities: {0: "Fur Coat", 1: "Steam Engine", H: "Sand Stream"},
+	},
+	aitanamega: {
+		inherit: true,
+		abilities: {0: "Fur Coat"},
+	},
 };
