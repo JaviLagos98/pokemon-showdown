@@ -250,6 +250,9 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			brickbreak: ["8L0"],
 			stoneedge: ["8L0"],
 			meteorassault: ["8L0"],
+			aerialace: ["8L0"],
+			rage: ["8L0"],
+			clamp: ["8L0"],
 		},
 	},
 	agentesn: {
