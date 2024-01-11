@@ -1321,8 +1321,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		onTryHit(target, source) {
 			if (target.ability === source.ability || source.hasItem('griseousorb')) return false;
-			const bannedTargetAbilities = ['multitype', 'wonderguard'];
-			if (bannedTargetAbilities.includes(target.ability) || source.ability === 'multitype') {
+			if (target.getAbility().flags['failroleplay'] || source.ability === 'multitype') {
 				return false;
 			}
 		},
@@ -1457,7 +1456,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	spikes: {
 		inherit: true,
-		flags: {},
+		flags: {mustpressure: 1},
 	},
 	spite: {
 		inherit: true,
@@ -1465,7 +1464,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	stealthrock: {
 		inherit: true,
-		flags: {},
+		flags: {mustpressure: 1},
 	},
 	struggle: {
 		inherit: true,
@@ -1513,7 +1512,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 					this.add('-activate', target, 'Substitute', '[damage]');
 				}
 				if (move.recoil && damage) {
-					this.damage(this.actions.calcRecoilDamage(damage, move), source, target, 'recoil');
+					this.damage(this.actions.calcRecoilDamage(damage, move, source), source, target, 'recoil');
 				}
 				if (move.drain) {
 					this.heal(Math.ceil(damage * move.drain[0] / move.drain[1]), source, target, 'drain');
@@ -1639,7 +1638,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 	},
 	toxicspikes: {
 		inherit: true,
-		flags: {},
+		flags: {mustpressure: 1},
 		condition: {
 			// this is a side condition
 			onSideStart(side) {

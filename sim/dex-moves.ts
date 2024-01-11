@@ -29,6 +29,7 @@ interface MoveFlags {
 	bypasssub?: 1; // Ignores a target's substitute.
 	bite?: 1; // Power is multiplied by 1.5 when used by a Pokemon with the Ability Strong Jaw.
 	bullet?: 1; // Has no effect on Pokemon with the Ability Bulletproof.
+	cantusetwice?: 1; // The user cannot select this move after a previous successful use.
 	charge?: 1; // The user is unable to make a move between turns.
 	contact?: 1; // Makes contact.
 	dance?: 1; // When used by a Pokemon, other Pokemon with the Ability Dancer can attempt to execute the same move.
@@ -653,7 +654,7 @@ export class DexMoves {
 				name: id, exists: false,
 			});
 		}
-		if (move.exists) this.moveCache.set(id, move);
+		if (move.exists) this.moveCache.set(id, this.dex.deepFreeze(move));
 		return move;
 	}
 
@@ -663,7 +664,7 @@ export class DexMoves {
 		for (const id in this.dex.data.Moves) {
 			moves.push(this.getByID(id as ID));
 		}
-		this.allCache = moves;
+		this.allCache = Object.freeze(moves);
 		return this.allCache;
 	}
 }
