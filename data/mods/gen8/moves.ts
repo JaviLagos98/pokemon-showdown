@@ -581,15 +581,7 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
-	vcreate: {
-		inherit: true,
-		isNonstandard: null,
-	},
 	ominouswind: {
-		inherit: true,
-		isNonstandard: null,
-	},
-	tailglow: {
 		inherit: true,
 		isNonstandard: null,
 	},

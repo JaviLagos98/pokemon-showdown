@@ -8,9 +8,9 @@ export const Formats: FormatList = [
 		column: 1,
 	},
 	{
-		name: "[Gen 7] [TCC3] TECA TWICH CUP 3 Singles",
+		name: "[Gen 7] [TCC3] TECA TWICH CUP 3",
 
-		mod: 'gen7tcc',
+		mod: 'gen7',
 		ruleset: [
             'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Item Clause',
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
@@ -18,9 +18,9 @@ export const Formats: FormatList = [
         ],
 	},
     {
-		name: "[Gen 7] [TCC3] TECA TWICH CUP 3 Doubles",
+		name: "[Gen 7] [TCC3DOUBLES] TECA TWICH CUP 3",
 
-		mod: 'gen7tcc',
+		mod: 'gen7',
         gameType: 'doubles',
 		ruleset: [
 			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
