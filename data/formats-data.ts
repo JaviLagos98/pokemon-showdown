@@ -6218,6 +6218,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	aitanamega: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 	yoloking: {
 		tier: "NU",
 		doublesTier: "(DUU)",

@@ -794,4 +794,8 @@ export const Items: {[k: string]: ModdedItemData} = {
 		inherit: true,
 		isNonstandard: "Past",
 	},
+	aitanaite: {
+		inherit: true,
+		isNonstandard: null,
+	}
 };

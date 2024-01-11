@@ -154,6 +154,13 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			moongeistbeam: ["8L0"],
 			shadowclaw: ["8L0"],
 			karatechop: ["8L0"],
+			falsesurrender: ["8L0"],
+			boltstrike: ["8L0"],
+			flipturn: ["8L0"],
+			fishiousrend: ["8L0"],
+			destinybond: ["8L0"],
+			attackorder: ["8L0"],
+			spectralthief: ["8L0"],
 		},
 	},
 	punki: {
@@ -250,6 +257,9 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			brickbreak: ["8L0"],
 			stoneedge: ["8L0"],
 			meteorassault: ["8L0"],
+			aerialace: ["8L0"],
+			rage: ["8L0"],
+			clamp: ["8L0"],
 		},
 	},
 	agentesn: {
