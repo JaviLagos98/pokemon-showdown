@@ -94672,4 +94672,68 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			aquatail: ["8L0"],
 		},
 	},
+	elmetal: {
+		learnset: {
+			earthpower: ["7L0"],
+			flashcannon: ["7L0"],
+			thunderbolt: ["7L0"],
+			sludgewave: ["7L0"],
+		},
+	},
+	laestampida: {
+		learnset: {
+			earthquake: ["7L0"],
+			waterfall: ["7L0"],
+			iceshard: ["7L0"],
+			aquajet: ["7L0"],
+		},
+	},
+	lalocomotora: {
+		learnset: {
+			outrage: ["7L0"],
+			swordsdance: ["7L0"],
+			megahorn: ["7L0"],
+			poisonjab: ["7L0"],
+		},
+	},
+	elglitch: {
+		learnset: {
+			eruption: ["7L0"],
+			triattack: ["7L0"],
+			discharge: ["7L0"],
+			flamethrower: ["7L0"],
+		},
+	},
+	lajusticia: {
+		learnset: {
+			flashcannon: ["7L0"],
+			moonblast: ["7L0"],
+			kingsshield: ["7L0"],
+			toxic: ["7L0"],
+		},
+	},
+	lamente: {
+		learnset: {
+			leechseed: ["7L0"],
+			taunt: ["7L0"],
+			moonblast: ["7L0"],
+			toxic: ["7L0"],
+		},
+	},
+	lavisita: {
+		learnset: {
+			quiverdance: ["7L0"],
+			shadowball: ["7L0"],
+			fierywrath: ["7L0"],
+			energyball: ["7L0"],
+		},
+	},
+	lapesadilla: {
+		learnset: {
+			hyperspacefury: ["7L0"],
+			spectralthief: ["7L0"],
+			earthquake: ["7L0"],
+			dragondance: ["7L0"],
+		},
+	}
 };

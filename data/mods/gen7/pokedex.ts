@@ -178,4 +178,40 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		unreleasedHidden: true,
 	},
+	elmetal: {
+		inherit: true,
+		abilities: {0: "Sheer Force"},
+	},
+	laestampida: {
+		inherit: true,
+		abilities: {0: "Huge Power"},
+	},
+	lalocomotora: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
+	elglitch: {
+		inherit: true,
+		abilities: {0: "Adaptability"},
+	},
+	lajusticia: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	lajusticiablade: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	lamente: {
+		inherit: true,
+		abilities: {0: "Prankster"},
+	},
+	lavisita: {
+		inherit: true,
+		abilities: {0: "Prankster"},
+	},
+	lapesadilla: {
+		inherit: true,
+		abilities: {0: "Pressure"},
+	}
 };

@@ -3520,4 +3520,40 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		isNonstandard: "LGPE",
 		tier: "Illegal",
 	},
+	elmetal: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	laestampida: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lalocomotora: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	elglitch: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lajusticia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lajusticiablade: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lamente: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lavisita: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lapesadilla: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	}
 };

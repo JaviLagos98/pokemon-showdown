@@ -4121,9 +4121,11 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 	stancechange: {
 		onModifyMovePriority: 1,
 		onModifyMove(move, attacker, defender) {
-			if (attacker.species.baseSpecies !== 'Aegislash' || attacker.transformed) return;
+			const speciestoaffect = attacker.species.baseSpecies;
+			const ablespecies = speciestoaffect !== 'Aegislash' && speciestoaffect !== 'LA JUSTICIA';
+			if (ablespecies || attacker.transformed) return;
 			if (move.category === 'Status' && move.id !== 'kingsshield') return;
-			const targetForme = (move.id === 'kingsshield' ? 'Aegislash' : 'Aegislash-Blade');
+			const targetForme = (move.id === 'kingsshield' ? speciestoaffect : speciestoaffect+'-Blade');
 			if (attacker.species.name !== targetForme) attacker.formeChange(targetForme);
 		},
 		isPermanent: true,
