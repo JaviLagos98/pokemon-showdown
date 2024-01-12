@@ -282,4 +282,36 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Rock Head"},
 	},
+	lorette: {
+		inherit: true,
+		abilities: {0: "Sheer Force"},
+	},
+	galletitas: {
+		inherit: true,
+		abilities: {0: "Intimidate"},
+	},
+	antifrancia: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
+	amphy: {
+		inherit: true,
+		abilities: {0: "Shadow Tag"},
+	},
+	vicobrakai: {
+		inherit: true,
+		abilities: {0: "Guts"},
+	},
+	ritacheat: {
+		inherit: true,
+		abilities: {0: "Skill Link"},
+	},
+	rprime: {
+		inherit: true,
+		abilities: {0: "Moxie"},
+	},
+	thewatertles: {
+		inherit: true,
+		abilities: {0: "Natural Cure"},
+	},
 };

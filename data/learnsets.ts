@@ -100109,4 +100109,68 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			stealthrock: ["7L0"],
 		},
 	},
+	lorette: {
+		learnset: {
+			earthpower: ["7L0"],
+			wish: ["7L0"],
+			protect: ["7L0"],
+			moonblast: ["7L0"],
+		},
+	},
+	galletitas: {
+		learnset: {
+			extremespeed: ["7L0"],
+			flareblitz: ["7L0"],
+			uturn: ["7L0"],
+			knockoff: ["7L0"],
+		},
+	},
+	antifrancia: {
+		learnset: {
+			tailwind: ["7L0"],
+			uturn: ["7L0"],
+			protect: ["7L0"],
+			airslash: ["7L0"],
+		},
+	},
+	amphy: {
+		learnset: {
+			paraboliccharge: ["7L0"],
+			toxic: ["7L0"],
+			protect: ["7L0"],
+			tailglow: ["7L0"],
+		},
+	},
+	vicobrakai: {
+		learnset: {
+			dragonclaw: ["7L0"],
+			superpower: ["7L0"],
+			protect: ["7L0"],
+			dragondance: ["7L0"],
+		},
+	},
+	ritacheat: {
+		learnset: {
+			iciclespear: ["7L0"],
+			shellsmash: ["7L0"],
+			protect: ["7L0"],
+			bulletseed: ["7L0"],
+		},
+	},
+	rprime: {
+		learnset: {
+			dragonclaw: ["7L0"],
+			machpunch: ["7L0"],
+			uturn: ["7L0"],
+			rockslide: ["7L0"],
+		},
+	},
+	thewatertles: {
+		learnset: {
+			recover: ["7L0"],
+			surf: ["7L0"],
+			protect: ["7L0"],
+			trickroom: ["7L0"],
+		},
+	},
 };

@@ -3632,4 +3632,36 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	lorette: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	galletitas: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	antifrancia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	amphy: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	vicobrakai: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	ritacheat: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rprime: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	thewatertles: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };
