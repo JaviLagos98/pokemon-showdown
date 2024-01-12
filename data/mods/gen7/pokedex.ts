@@ -213,5 +213,37 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	lapesadilla: {
 		inherit: true,
 		abilities: {0: "Pressure"},
-	}
+	},
+	heathen: {
+		inherit: true,
+		abilities: {0: "Pixilate"},
+	},
+	aranito: {
+		inherit: true,
+		abilities: {0: "Compound Eyes"},
+	},
+	lancelot: {
+		inherit: true,
+		abilities: {0: "Synchronize"},
+	},
+	laconona: {
+		inherit: true,
+		abilities: {0: "Moxie"},
+	},
+	merry: {
+		inherit: true,
+		abilities: {0: "Intimidate"},
+	},
+	kissmachine: {
+		inherit: true,
+		abilities: {0: "Super Luck"},
+	},
+	polvoron: {
+		inherit: true,
+		abilities: {0: "Unburden"},
+	},
+	aniquilator: {
+		inherit: true,
+		abilities: {0: "Clear Body"},
+	},
 };

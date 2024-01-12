@@ -99980,5 +99980,69 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			earthquake: ["7L0"],
 			dragondance: ["7L0"],
 		},
-	}
+	},
+	heathen: {
+		learnset: {
+			boomburst: ["7L0"],
+			hurricane: ["7L0"],
+			dracometeor: ["7L0"],
+			flamethrower: ["7L0"],
+		},
+	},
+	aranito: {
+		learnset: {
+			hypnosis: ["7L0"],
+			shadowball: ["7L0"],
+			thunder: ["7L0"],
+			stickyweb: ["7L0"],
+		},
+	},
+	lancelot: {
+		learnset: {
+			toxic: ["7L0"],
+			partingshot: ["7L0"],
+			foulplay: ["7L0"],
+			moonlight: ["7L0"],
+		},
+	},
+	laconona: {
+		learnset: {
+			tailwind: ["7L0"],
+			defog: ["7L0"],
+			outrage: ["7L0"],
+			aerialace: ["7L0"],
+		},
+	},
+	merry: {
+		learnset: {
+			shellsmash: ["7L0"],
+			flareblitz: ["7L0"],
+			toxic: ["7L0"],
+			waterfall: ["7L0"],
+		},
+	},
+	kissmachine: {
+		learnset: {
+			paraboliccharge: ["7L0"],
+			moonblast: ["7L0"],
+			flashcannon: ["7L0"],
+			nastyplot: ["7L0"],
+		},
+	},
+	polvoron: {
+		learnset: {
+			tailglow: ["7L0"],
+			energyball: ["7L0"],
+			thunderbolt: ["7L0"],
+			endeavor: ["7L0"],
+		},
+	},
+	aniquilator: {
+		learnset: {
+			dragonascent: ["7L0"],
+			earthquake: ["7L0"],
+			extremespeed: ["7L0"],
+			ironhead: ["7L0"],
+		},
+	},
 };

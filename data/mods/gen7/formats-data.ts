@@ -3567,5 +3567,37 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	lapesadilla: {
 		tier: "NU",
 		doublesTier: "(DUU)",
-	}
+	},
+	heathen: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	aranito: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lancelot: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	laconona: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	merry: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	kissmachine: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	polvoron: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	aniquilator: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };
