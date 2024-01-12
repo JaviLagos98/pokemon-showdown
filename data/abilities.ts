@@ -4413,7 +4413,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		onModifyMovePriority: 1,
 		onModifyMove(move, attacker, defender) {
 			const speciestoaffect = attacker.species.baseSpecies;
-			const ablespecies = speciestoaffect !== 'Aegislash' && speciestoaffect !== 'LA JUSTICIA';
+			const ablespecies = speciestoaffect !== 'Aegislash' && speciestoaffect !== 'LA JUSTICIA' && speciestoaffect !== 'NMK';
 			if (ablespecies || attacker.transformed) return;
 			if (move.category === 'Status' && move.id !== 'kingsshield') return;
 			const targetForme = (move.id === 'kingsshield' ? speciestoaffect : speciestoaffect+'-Blade');

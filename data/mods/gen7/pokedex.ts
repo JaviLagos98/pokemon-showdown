@@ -246,4 +246,40 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Clear Body"},
 	},
+	sanders: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
+	pinga: {
+		inherit: true,
+		abilities: {0: "Bad Dreams"},
+	},
+	juanjo: {
+		inherit: true,
+		abilities: {0: "Synchronize"},
+	},
+	tugator: {
+		inherit: true,
+		abilities: {0: "Overgrow"},
+	},
+	murcia: {
+		inherit: true,
+		abilities: {0: "Guts"},
+	},
+	nmk: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	nmkblade: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	chutumola: {
+		inherit: true,
+		abilities: {0: "Clear Body"},
+	},
+	johny: {
+		inherit: true,
+		abilities: {0: "Rock Head"},
+	},
 };

@@ -100039,10 +100039,74 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 	},
 	aniquilator: {
 		learnset: {
-			dragonascent: ["7L0"],
+			sunnyday: ["7L0"],
+			solarbeam: ["7L0"],
+			heatwave: ["7L0"],
+			superpower: ["7L0"],
+		},
+	},
+	sanders: {
+		learnset: {
+			dreameater: ["7L0"],
+			hydropump: ["7L0"],
+			darkpulse: ["7L0"],
+			hypnosis: ["7L0"],
+		},
+	},
+	pinga: {
+		learnset: {
+			dreameater: ["7L0"],
+			hydropump: ["7L0"],
+			darkpulse: ["7L0"],
+			hypnosis: ["7L0"],
+		},
+	},
+	juanjo: {
+		learnset: {
+			moonblast: ["7L0"],
+			psychic: ["7L0"],
+			calmmind: ["7L0"],
+			aurasphere: ["7L0"],
+		},
+	},
+	tugator: {
+		learnset: {
 			earthquake: ["7L0"],
-			extremespeed: ["7L0"],
-			ironhead: ["7L0"],
+			leechseed: ["7L0"],
+			petalblizzard: ["7L0"],
+			lightscreen: ["7L0"],
+		},
+	},
+	murcia: {
+		learnset: {
+			crunch: ["7L0"],
+			facade: ["7L0"],
+			hurricane: ["7L0"],
+			discharge: ["7L0"],
+		},
+	},
+	nmk: {
+		learnset: {
+			kingsshield: ["7L0"],
+			sacredsword: ["7L0"],
+			outrage: ["7L0"],
+			spectralthief: ["7L0"],
+		},
+	},
+	chutumola: {
+		learnset: {
+			toxicspikes: ["7L0"],
+			barrier: ["7L0"],
+			waterfall: ["7L0"],
+			playrough: ["7L0"],
+		},
+	},
+	johny: {
+		learnset: {
+			earthquake: ["7L0"],
+			headsmash: ["7L0"],
+			dragonclaw: ["7L0"],
+			stealthrock: ["7L0"],
 		},
 	},
 };
