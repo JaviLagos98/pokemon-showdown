@@ -100039,18 +100039,18 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 	},
 	aniquilator: {
 		learnset: {
-			sunnyday: ["7L0"],
-			solarbeam: ["7L0"],
-			heatwave: ["7L0"],
-			superpower: ["7L0"],
+			dragonascent: ["7L0"],
+			extremespeed: ["7L0"],
+			ironhead: ["7L0"],
+			earthquake: ["7L0"],
 		},
 	},
 	sanders: {
 		learnset: {
-			dreameater: ["7L0"],
-			hydropump: ["7L0"],
-			darkpulse: ["7L0"],
-			hypnosis: ["7L0"],
+			sunnyday: ["7L0"],
+			solarbeam: ["7L0"],
+			heatwave: ["7L0"],
+			superpower: ["7L0"],
 		},
 	},
 	pinga: {

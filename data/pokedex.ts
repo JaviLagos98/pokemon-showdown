@@ -20811,7 +20811,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	tugator: {
 		num:300018,
-		name: "Tortugator",
+		name: "Tugator",
 		types: ["Ground", "Grass"],
 		genderRatio: {M:0.5,F:0.5},
 		baseStats: {hp: 85, atk: 100, def: 103, spa: 80, spd: 95, spe: 64},
