@@ -20986,8 +20986,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	thewatertles: {
 		num:300030,
-		name: "R Prime",
-		types: ["Ice", "Grass"],
+		name: "The Watertles",
+		types: ["Water"],
 		genderRatio: {M:0.5,F:0.5},
 		baseStats: {hp: 66, atk: 80, def: 95, spa: 95, spd: 91, spe: 90},
 		abilities: {0: "Natural Cure"},
