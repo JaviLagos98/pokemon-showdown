@@ -208,7 +208,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	lavisita: {
 		inherit: true,
-		abilities: {0: "Prankster"},
+		abilities: {0: "Levitate"},
 	},
 	lapesadilla: {
 		inherit: true,
