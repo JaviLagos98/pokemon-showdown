@@ -20756,7 +20756,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	aniquilator: {
 		num:300015,
-		name: "ANIQUILATOR3000",
+		name: "ANIQUILATOR",
 		types: ["Steel", "Flying"],
 		gender: "N",
 		baseStats: {hp: 88, atk: 125, def: 110, spa: 111, spd: 100, spe: 80},
