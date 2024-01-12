@@ -100173,4 +100173,68 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			trickroom: ["7L0"],
 		},
 	},
+	rikaorimoto: {
+		learnset: {
+			calmmind: ["7L0"],
+			storedpower: ["7L0"],
+			protect: ["7L0"],
+			hydropump: ["7L0"],
+		},
+	},
+	diego: {
+		learnset: {
+			willowisp: ["7L0"],
+			calmmind: ["7L0"],
+			discharge: ["7L0"],
+			Hex: ["7L0"],
+		},
+	},
+	vicenta: {
+		learnset: {
+			nightdaze: ["7L0"],
+			psychic: ["7L0"],
+			fleurcannon: ["7L0"],
+			nastyplot: ["7L0"],
+		},
+	},
+	santana: {
+		learnset: {
+			bulkup: ["7L0"],
+			retaliate: ["7L0"],
+			spectralthief: ["7L0"],
+			playrough: ["7L0"],
+		},
+	},
+	pipo: {
+		learnset: {
+			toxic: ["7L0"],
+			petaldance: ["7L0"],
+			leechseed: ["7L0"],
+			discharge: ["7L0"],
+		},
+	},
+	cilantra: {
+		learnset: {
+			leechseed: ["7L0"],
+			moonblast: ["7L0"],
+			uturn: ["7L0"],
+			knockoff: ["7L0"],
+		},
+	},
+	alejandro: {
+		learnset: {
+			sludgewave: ["7L0"],
+			toxicspikes: ["7L0"],
+			rapidspin: ["7L0"],
+			gyroball: ["7L0"],
+		},
+	},
+	cynthia: {
+		learnset: {
+			bravebird: ["7L0"],
+			earthquake: ["7L0"],
+			flareblitz: ["7L0"],
+			bulkup: ["7L0"],
+		},
+	},
 };

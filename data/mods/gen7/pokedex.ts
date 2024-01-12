@@ -314,4 +314,36 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Natural Cure"},
 	},
+	rikaorimoto: {
+		inherit: true,
+		abilities: {0: "Moody"},
+	},
+	diego: {
+		inherit: true,
+		abilities: {0: "Flash Fire"},
+	},
+	vicenta: {
+		inherit: true,
+		abilities: {0: "Illusion"},
+	},
+	santana: {
+		inherit: true,
+		abilities: {0: "Pressure"},
+	},
+	pipo: {
+		inherit: true,
+		abilities: {0: "Static"},
+	},
+	cilantra: {
+		inherit: true,
+		abilities: {0: "Prankster"},
+	},
+	alejandro: {
+		inherit: true,
+		abilities: {0: "Sturdy"},
+	},
+	cynthia: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
 };

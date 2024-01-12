@@ -6434,4 +6434,36 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	rikaorimoto: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	diego: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	vicenta: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	santana: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pipo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cilantra: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	alejandro: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cynthia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };
