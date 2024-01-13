@@ -100245,6 +100245,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			closecombat: ["7L0"],
 			bulletpunch: ["7L0"],
 			knockoff: ["7L0"],
+			waterfall: ["7L0"],
 		},
 	},
 	unpiquito: {
@@ -100312,6 +100313,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			suckerpunch: ["7L0"],
 			retaliate: ["7L0"],
 			shadowclaw: ["7L0"],
+			slackoff: ["7L0"],
 		},
 	},
 	esnifanubes: {

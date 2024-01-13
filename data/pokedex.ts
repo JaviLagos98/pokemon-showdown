@@ -21146,7 +21146,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		types: ["Dragon", "Steel"],
 		genderRatio: {M:0.5,F:0.5},
 		baseStats: {hp: 83, atk: 80, def: 100, spa: 116, spd: 130, spe: 66},
-		abilities: {0: "Sheer Force"},
+		abilities: {0: "gooey"},
 		heightm: 1.3,
 		weightkg: 60,
 		color: "Brown",
