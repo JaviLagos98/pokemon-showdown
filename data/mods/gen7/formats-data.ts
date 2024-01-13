@@ -3760,4 +3760,12 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	dummyevo1: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	dummyevo2: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };
