@@ -410,11 +410,11 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Sturdy"},
 	},
-	dummyevo1: {
+	dummyevoone: {
 		inherit:true,
 		abilities: {0: "Truant"},
 	},
-	dummyevo2: {
+	dummyevotwo: {
 		inherit:true,
 		abilities: {0: "Truant"},
 	},

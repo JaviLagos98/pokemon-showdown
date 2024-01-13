@@ -20702,7 +20702,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		heightm: 0.8,
 		weightkg: 4.5,
 		color: "Black",
-		evos: ["DummyEvo 1"],
+		evos: ["DummyEvo One"],
 		eggGroups: ["Mineral"],
 		gen: 7,
 	},
@@ -21229,7 +21229,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		heightm: 1.6,
 		weightkg: 30.6,
 		color: "Pink",
-		evos: ["DummyEvo 2"],
+		evos: ["DummyEvo Two"],
 		eggGroups: ["Mineral"],
 		gen: 7,
 	},
@@ -21311,9 +21311,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral"],
 		gen: 7,
 	},
-	dummyevo1: {
-		num: -300001,
-		name: "DummyEvo 1",
+	dummyevoone: {
+		num: 300001,
+		name: "DummyEvo One",
 		types: ["Normal"],
 		genderRatio: {M: 1, F: 0},
 		baseStats: {hp: 1, atk: 1, def: 1, spa: 1, spd: 1, spe: 1},
@@ -21326,9 +21326,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral"],
 		gen: 7,
 	},
-	dummyevo2: {
-		num: -300002,
-		name: "DummyEvo 2",
+	dummyevotwo: {
+		num: 300060,
+		name: "DummyEvo Two",
 		types: ["Normal"],
 		genderRatio: {M: 0, F: 1},
 		baseStats: {hp: 1, atk: 1, def: 1, spa: 1, spd: 1, spe: 1},

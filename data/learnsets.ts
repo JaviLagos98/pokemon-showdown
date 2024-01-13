@@ -100394,4 +100394,14 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			surf: ["7L0"],
 		},
 	},
+	dummyevoone: {
+		learnset: {
+			tackle: ["7L0"],
+		},
+	},
+	dummyevotwo: {
+		learnset: {
+			tackle: ["7L0"], 
+		},
+	},
 };

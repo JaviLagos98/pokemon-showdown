@@ -6530,11 +6530,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
-	dummyevo1: {
+	dummyevoone: {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
-	dummyevo2: {
+	dummyevotwo: {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
