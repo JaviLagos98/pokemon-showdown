@@ -100186,7 +100186,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			willowisp: ["7L0"],
 			calmmind: ["7L0"],
 			discharge: ["7L0"],
-			Hex: ["7L0"],
+			hex: ["7L0"],
 		},
 	},
 	vicenta: {

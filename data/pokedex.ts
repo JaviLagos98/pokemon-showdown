@@ -20758,7 +20758,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		gen: 7,
 	},
 	aniquilator: {
-		num:300015,
+		num:300055,
 		name: "ANIQUILATOR",
 		types: ["Steel", "Flying"],
 		gender: "N",
@@ -20797,7 +20797,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		gen: 7,
 	},
 	juanjo: {
-		num:300017,
+		num:300056,
 		name: "JuanJo",
 		types: ["Fairy", "Psychic"],
 		genderRatio: {M:0.5,F:0.5},
@@ -21146,7 +21146,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		types: ["Dragon", "Steel"],
 		genderRatio: {M:0.5,F:0.5},
 		baseStats: {hp: 83, atk: 80, def: 100, spa: 116, spd: 130, spe: 66},
-		abilities: {0: "gooey"},
+		abilities: {0: "Gooey"},
 		heightm: 1.3,
 		weightkg: 60,
 		color: "Brown",
