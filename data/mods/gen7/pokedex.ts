@@ -360,7 +360,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	tutukisplash: {
 		inherit: true,
-		abilities: {0: "Sheer Force"},
+		abilities: {0: "Gooey"},
 	},
 	chonkypolilla: {
 		inherit: true,
