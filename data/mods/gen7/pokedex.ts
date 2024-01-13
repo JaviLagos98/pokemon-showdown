@@ -346,4 +346,36 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Speed Boost"},
 	},
+	lolobunny: {
+		inherit: true,
+		abilities: {0: "Huge Power"},
+	},
+	unpiquito: {
+		inherit: true,
+		abilities: {0: "Moody"},
+	},
+	tinolangostino: {
+		inherit: true,
+		abilities: {0: "Sheer Force"},
+	},
+	tutukisplash: {
+		inherit: true,
+		abilities: {0: "Sheer Force"},
+	},
+	chonkypolilla: {
+		inherit: true,
+		abilities: {0: "Flame Body"},
+	},
+	vayalacaballa: {
+		inherit: true,
+		abilities: {0: "Download"},
+	},
+	osoamoroso: {
+		inherit: true,
+		abilities: {0: "Gluttony"},
+	},
+	esnifanubes: {
+		inherit: true,
+		abilities: {0: "Sturdy"},
+	},
 };

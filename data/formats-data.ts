@@ -6466,4 +6466,36 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	lolobunny: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	unpiquito: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	tinolangostino: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	tutukisplash: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	chonkypolilla: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	vayalacaballa: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	osoamoroso: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	esnifanubes: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };

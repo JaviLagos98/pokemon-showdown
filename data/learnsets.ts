@@ -100237,4 +100237,90 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			bulkup: ["7L0"],
 		},
 	},
+	lolobunny: {
+		learnset: {
+			aquatail: ["7L0"],
+			aquajet: ["7L0"],
+			revenge: ["7L0"],
+			closecombat: ["7L0"],
+			bulletpunch: ["7L0"],
+			knockoff: ["7L0"],
+		},
+	},
+	unpiquito: {
+		learnset: {
+			hydropump: ["7L0"],
+			earthquake: ["7L0"],
+			earthpower: ["7L0"],
+			protect: ["7L0"],
+		},
+	},
+	tinolangostino: {
+		learnset: {
+			swordsdance: ["7L0"],
+			crabhammer: ["7L0"],
+			firepunch: ["7L0"],
+			blazekick: ["7L0"],
+			flareblitz: ["7L0"],
+			earthquake: ["7L0"],
+			machpunch: ["7L0"],
+		},
+	},
+	tutukisplash: {
+		learnset: {
+			flashcannon: ["7L0"],
+			fireblast: ["7L0"],
+			dragonpulse: ["7L0"],
+			dracometeor: ["7L0"],
+			leechseed: ["7L0"],
+		},
+	},
+	chonkypolilla: {
+		learnset: {
+			stealthrock: ["7L0"],
+			quiverdance: ["7L0"],
+			bugbuzz: ["7L0"],
+			ancientpower: ["7L0"],
+			fierydance: ["7L0"],
+		},
+	},
+	vayalacaballa: {
+		learnset: {
+			psychic: ["7L0"],
+			megapunch: ["7L0"],
+			drainpunch: ["7L0"],
+			triattack: ["7L0"],
+			thunderbolt: ["7L0"],
+			moonblast: ["7L0"],
+			shadowball: ["7L0"],
+			quiverdance: ["7L0"],
+			drainingkiss: ["7L0"],
+			scald: ["7L0"],
+			trickroom: ["7L0"],
+		},
+	},
+	osoamoroso: {
+		learnset: {
+			bodyslam: ["7L0"],
+			recycle: ["7L0"],
+			gigaimpact: ["7L0"],
+			curse: ["7L0"],
+			bellydrum: ["7L0"],
+			yawn: ["7L0"],
+			darkestlariat: ["7L0"],
+			doubleedge: ["7L0"],
+			suckerpunch: ["7L0"],
+			retaliate: ["7L0"],
+			shadowclaw: ["7L0"],
+		},
+	},
+	esnifanubes: {
+		learnset: {
+			stealthrock: ["7L0"],
+			flashcannon: ["7L0"],
+			dazzlinggleam: ["7L0"],
+			toxic: ["7L0"],
+			moonblast: ["7L0"],
+		},
+	},
 };
