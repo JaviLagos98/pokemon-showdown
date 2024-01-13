@@ -100323,4 +100323,73 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			moonblast: ["7L0"],
 		},
 	},
+	sharknado: {
+		learnset: {
+			dragonclaw: ["7L0"],
+			wildcharge: ["7L0"],
+			voltswitch: ["7L0"],
+			ironhead: ["7L0"],
+			outrage: ["7L0"],
+			earthquake: ["7L0"],
+			facade: ["7L0"],
+		},
+	},
+	boo: {
+		learnset: {
+			toxic: ["7L0"],
+			protect: ["7L0"],
+			softboiled: ["7L0"],
+			curse: ["7L0"],
+		},
+	},
+	rosito: {
+		learnset: {
+			gyroball: ["7L0"],
+			leechseed: ["7L0"],
+			stealthrock: ["7L0"],
+			playrough: ["7L0"],
+		},
+	},
+	pepe: {
+		learnset: {
+			fireblast: ["7L0"],
+			clangingscales: ["7L0"],
+			uturn: ["7L0"],
+			solarbeam: ["7L0"],
+			searingshot: ["7L0"],
+		},
+	},
+	larosalia: {
+		learnset: {
+			sleeppowder: ["7L0"],
+			solarbeam: ["7L0"],
+			weatherball: ["7L0"],
+			toxicspikes: ["7L0"],
+		},
+	},
+	cosita: {
+		learnset: {
+			calmmind: ["7L0"],
+			moonblast: ["7L0"],
+			tailwind: ["7L0"],
+			shadowball: ["7L0"],
+		},
+	},
+	joseluis: {
+		learnset: {
+			waterfall: ["7L0"],
+			ironhead: ["7L0"],
+			drillpeck: ["7L0"],
+			earthquake: ["7L0"],
+			suckerpunch: ["7L0"],
+		},
+	},
+	pepote:{
+		learnset: {
+			dragonpulse: ["7L0"],
+			rapidspin: ["7L0"],
+			flashcannon: ["7L0"],
+			surf: ["7L0"],
+		},
+	},
 };

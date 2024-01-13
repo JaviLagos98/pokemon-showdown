@@ -6498,4 +6498,36 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	sharknado: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	boo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rosito: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pepe: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	larosalia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cosita: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	joseluis: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pepote:{
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };

@@ -1698,7 +1698,8 @@ export const Items: {[itemid: string]: ItemData} = {
 		onModifyDefPriority: 2,
 		onModifyDef(def, pokemon) {
 			if (pokemon.baseSpecies.nfe 
-				|| pokemon.baseSpecies.baseSpecies === 'LA CONONA') {
+				|| pokemon.baseSpecies.baseSpecies === 'LANCELOT'
+				|| pokemon.baseSpecies.baseSpecies === 'Boo') {
 				return this.chainModify(1.5);
 			}
 		},

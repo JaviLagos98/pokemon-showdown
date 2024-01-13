@@ -378,4 +378,36 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Sturdy"},
 	},
+	sharknado: {
+		inherit: true,
+		abilities: {0: "Guts"},
+	},
+	boo: {
+		inherit: true,
+		abilities: {0: "Natural Cure"},
+	},
+	rosito: {
+		inherit: true,
+		abilities: {0: "Unaware"},
+	},
+	pepe: {
+		inherit: true,
+		abilities: {0: "Levitate"},
+	},
+	larosalia: {
+		inherit: true,
+		abilities: {0: "Drought"},
+	},
+	cosita: {
+		inherit: true,
+		abilities: {0: "Prankster"},
+	},
+	joseluis: {
+		inherit: true,
+		abilities: {0: "Defiant"},
+	},
+	pepote:{
+		inherit: true,
+		abilities: {0: "Sturdy"},
+	},
 };
