@@ -352,4 +352,244 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Fur Coat"},
 	},
+	elmetal: {
+		inherit: true,
+		abilities: {0: "Sheer Force"},
+	},
+	laestampida: {
+		inherit: true,
+		abilities: {0: "Huge Power"},
+	},
+	lalocomotora: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
+	elglitch: {
+		inherit: true,
+		abilities: {0: "Adaptability"},
+	},
+	lajusticia: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	lajusticiablade: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	lamente: {
+		inherit: true,
+		abilities: {0: "Prankster"},
+	},
+	lavisita: {
+		inherit: true,
+		abilities: {0: "Levitate"},
+	},
+	lapesadilla: {
+		inherit: true,
+		abilities: {0: "Pressure"},
+	},
+	heathen: {
+		inherit: true,
+		abilities: {0: "Pixilate"},
+	},
+	aranito: {
+		inherit: true,
+		abilities: {0: "Compound Eyes"},
+	},
+	lancelot: {
+		inherit: true,
+		abilities: {0: "Synchronize"},
+	},
+	laconona: {
+		inherit: true,
+		abilities: {0: "Moxie"},
+	},
+	merry: {
+		inherit: true,
+		abilities: {0: "Intimidate"},
+	},
+	kissmachine: {
+		inherit: true,
+		abilities: {0: "Super Luck"},
+	},
+	polvoron: {
+		inherit: true,
+		abilities: {0: "Unburden"},
+	},
+	aniquilator: {
+		inherit: true,
+		abilities: {0: "Clear Body"},
+	},
+	sanders: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
+	pinga: {
+		inherit: true,
+		abilities: {0: "Bad Dreams"},
+	},
+	juanjo: {
+		inherit: true,
+		abilities: {0: "Synchronize"},
+	},
+	tugator: {
+		inherit: true,
+		abilities: {0: "Overgrow"},
+	},
+	murcia: {
+		inherit: true,
+		abilities: {0: "Guts"},
+	},
+	nmk: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	nmkblade: {
+		inherit: true,
+		abilities: {0: "Stance Change"},
+	},
+	chutumola: {
+		inherit: true,
+		abilities: {0: "Clear Body"},
+	},
+	johny: {
+		inherit: true,
+		abilities: {0: "Rock Head"},
+	},
+	lorette: {
+		inherit: true,
+		abilities: {0: "Sheer Force"},
+	},
+	galletitas: {
+		inherit: true,
+		abilities: {0: "Intimidate"},
+	},
+	antifrancia: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
+	amphy: {
+		inherit: true,
+		abilities: {0: "Shadow Tag"},
+	},
+	vicobrakai: {
+		inherit: true,
+		abilities: {0: "Guts"},
+	},
+	ritacheat: {
+		inherit: true,
+		abilities: {0: "Skill Link"},
+	},
+	rprime: {
+		inherit: true,
+		abilities: {0: "Moxie"},
+	},
+	thewatertles: {
+		inherit: true,
+		abilities: {0: "Natural Cure"},
+	},
+	rikaorimoto: {
+		inherit: true,
+		abilities: {0: "Moody"},
+	},
+	diego: {
+		inherit: true,
+		abilities: {0: "Flash Fire"},
+	},
+	vicenta: {
+		inherit: true,
+		abilities: {0: "Illusion"},
+	},
+	santana: {
+		inherit: true,
+		abilities: {0: "Pressure"},
+	},
+	pipo: {
+		inherit: true,
+		abilities: {0: "Static"},
+	},
+	cilantra: {
+		inherit: true,
+		abilities: {0: "Prankster"},
+	},
+	alejandro: {
+		inherit: true,
+		abilities: {0: "Sturdy"},
+	},
+	cynthia: {
+		inherit: true,
+		abilities: {0: "Speed Boost"},
+	},
+	lolobunny: {
+		inherit: true,
+		abilities: {0: "Huge Power"},
+	},
+	unpiquito: {
+		inherit: true,
+		abilities: {0: "Moody"},
+	},
+	tinolangostino: {
+		inherit: true,
+		abilities: {0: "Sheer Force"},
+	},
+	tutukisplash: {
+		inherit: true,
+		abilities: {0: "Gooey"},
+	},
+	chonkypolilla: {
+		inherit: true,
+		abilities: {0: "Flame Body"},
+	},
+	vayalacaballa: {
+		inherit: true,
+		abilities: {0: "Download"},
+	},
+	osoamoroso: {
+		inherit: true,
+		abilities: {0: "Gluttony"},
+	},
+	esnifanubes: {
+		inherit: true,
+		abilities: {0: "Sturdy"},
+	},
+	sharknado: {
+		inherit: true,
+		abilities: {0: "Guts"},
+	},
+	boo: {
+		inherit: true,
+		abilities: {0: "Natural Cure"},
+	},
+	rosito: {
+		inherit: true,
+		abilities: {0: "Unaware"},
+	},
+	pepe: {
+		inherit: true,
+		abilities: {0: "Levitate"},
+	},
+	larosalia: {
+		inherit: true,
+		abilities: {0: "Drought"},
+	},
+	cosita: {
+		inherit: true,
+		abilities: {0: "Prankster"},
+	},
+	joseluis: {
+		inherit: true,
+		abilities: {0: "Defiant"},
+	},
+	pepote:{
+		inherit: true,
+		abilities: {0: "Sturdy"},
+	},
+	dummyevoone: {
+		inherit:true,
+		abilities: {0: "Truant"},
+	},
+	dummyevotwo: {
+		inherit:true,
+		abilities: {0: "Truant"},
+	},
 };

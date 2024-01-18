@@ -5854,4 +5854,240 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	elmetal: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	laestampida: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lalocomotora: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	elglitch: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lajusticia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lajusticiablade: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lamente: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lavisita: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lapesadilla: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	heathen: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	aranito: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lancelot: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	laconona: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	merry: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	kissmachine: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	polvoron: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	aniquilator: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	sanders: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pinga: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	juanjo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	tugator: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	murcia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	nmk: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	chutumola: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	johny: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lorette: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	galletitas: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	antifrancia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	amphy: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	vicobrakai: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	ritacheat: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rprime: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	thewatertles: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rikaorimoto: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	diego: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	vicenta: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	santana: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pipo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cilantra: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	alejandro: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cynthia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lolobunny: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	unpiquito: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	tinolangostino: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	tutukisplash: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	chonkypolilla: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	vayalacaballa: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	osoamoroso: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	esnifanubes: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	sharknado: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	boo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	rosito: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pepe: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	larosalia: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cosita: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	joseluis: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pepote:{
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	dummyevoone: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	dummyevotwo: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };
