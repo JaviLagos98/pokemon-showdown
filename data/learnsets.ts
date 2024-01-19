@@ -100406,4 +100406,84 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			tackle: ["7L0","8L0"], 
 		},
 	},
+	mododios: {
+		learnset: {
+				retaliate: ["7L0","8L0"],
+				zenheadbutt: ["7L0","8L0"],
+				playrough: ["7L0","8L0"],
+				shadowclaw: ["7L0","8L0"],
+				knockoff: ["7L0","8L0"],
+				drainpunch: ["7L0","8L0"],
+				recover: ["7L0","8L0"],
+				earthquake: ["7L0","8L0"],
+			},
+	},
+	chimpanz: {
+		learnset: {
+			nastyplot: ["7L0","8L0"],
+			thunderbolt: ["7L0","8L0"],
+			heatwave: ["7L0","8L0"],
+			focusblast: ["7L0","8L0"],
+		},
+	},
+	wetdream: {
+		learnset: {
+			closecombat: ["7L0","8L0"],
+			knockoff: ["7L0","8L0"],
+			flareblitz: ["7L0","8L0"],
+			bulletpunch: ["7L0","8L0"],
+			facade: ["7L0","8L0"],
+		},
+	},
+	cangreburger: {
+		learnset: {
+			stealthrock: ["7L0","8L0"],
+			stonedge: ["7L0","8L0"],
+			xscissor: ["7L0","8L0"],
+			firstimpression: ["7L0","8L0"],
+			earthquake: ["7L0","8L0"],
+			curse: ["7L0","8L0"],
+		},
+	},
+	macdemarco: {
+		learnset: {
+			shadowclaw: ["7L0","8L0"],
+			knockoff: ["7L0","8L0"],
+			destinybond: ["7L0","8L0"],
+			dazzlinggleam: ["7L0","8L0"],
+			trickroom: ["7L0","8L0"],
+		},
+	},
+	linkinpark: {
+		learnset: {
+			growth: ["7L0","8L0"],
+			gigadrain: ["7L0","8L0"],
+			ironhead: ["7L0","8L0"],
+			knockoff: ["7L0","8L0"],
+			suckerpunch: ["7L0","8L0"],
+			leechseed: ["7L0","8L0"],
+		},
+	},
+	kfc: {
+		learnset: {
+			nastyplot: ["7L0","8L0"],
+			solarbeam: ["7L0","8L0"],
+			fireblast: ["7L0","8L0"],
+			bravebird: ["7L0","8L0"],
+			roost: ["7L0","8L0"],
+			tailwind: ["7L0","8L0"],
+		},
+	},
+	kingbro: {
+		learnset: {
+			scald: ["7L0","8L0"],
+			futuresight: ["7L0","8L0"],
+			icebeam: ["7L0","8L0"],
+			dragontail: ["7L0","8L0"],
+			teleport: ["7L0","8L0"],
+			slackoff: ["7L0","8L0"],
+			toxic: ["7L0","8L0"],
+			trickroom: ["7L0","7L0"]
+		},
+	},
 };

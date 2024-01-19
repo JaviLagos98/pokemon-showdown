@@ -418,4 +418,36 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit:true,
 		abilities: {0: "Truant"},
 	},
+	mododios: {
+		inherit:true,
+		abilities: {0: "Pressure"},
+	},
+	chimpanz: {
+		inherit:true,
+		abilities: {0: "Static"},
+	},
+	wetdream: {
+		inherit:true,
+		abilities: {0: "Guts"},
+	},
+	cangreburger: {
+		inherit:true,
+		abilities: {0: "Battle Armor", 1: "Sand Stream"},
+	},
+	macdemarco: {
+		inherit:true,
+		abilities: {0: "Cursed Body"},
+	},
+	linkinpark: {
+		inherit:true,
+		abilities: {0: "Chlorophyll", 1: "Defiant"},
+	},
+	kfc: {
+		inherit:true,
+		abilities: {0: "Drough"},
+	},
+	kingbro: {
+		inherit:true,
+		abilities: {0: "Regenerator"},
+	},
 };

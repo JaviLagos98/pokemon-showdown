@@ -6090,4 +6090,36 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	mododios: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	chimpanz: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	wetdream: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cangreburger: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	macdemarco: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	linkinpark: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	kfc: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	kingbro: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };
