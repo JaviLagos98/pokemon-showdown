@@ -20884,7 +20884,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	johny: {
 		num:300022,
 		name: "Johny",
-		types: ["Water", "Normal"],
+		types: ["Rock", "Dragon"],
 		genderRatio: {M:0.5,F:0.5},
 		baseStats: {hp: 109, atk: 106, def: 103, spa: 89, spd: 81, spe: 66},
 		abilities: {0: "Rock Head"},
