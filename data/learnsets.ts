@@ -100438,7 +100438,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 	cangreburger: {
 		learnset: {
 			stealthrock: ["7L0","8L0"],
-			stonedge: ["7L0","8L0"],
+			stoneedge: ["7L0","8L0"],
 			xscissor: ["7L0","8L0"],
 			firstimpression: ["7L0","8L0"],
 			earthquake: ["7L0","8L0"],

@@ -21365,6 +21365,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 55,
 		color: "Yellow",
 		eggGroups: ["Mineral"],
+		gen: 7,
 	},
 	wetdream: {
 		num: 300063,
@@ -21377,6 +21378,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 95,
 		color: "Grey",
 		eggGroups: ["Mineral"],
+		gen: 7,
 	},
 	cangreburger: {
 		num: 300064,
@@ -21389,6 +21391,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 68.2,
 		color: "Green",
 		eggGroups: ["Mineral"],
+		gen: 7,
 	},
 	macdemarco: {
 		num: 300065,
@@ -21401,6 +21404,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 12.5,
 		color: "Pink",
 		eggGroups: ["Mineral"],
+		gen: 7,
 	},
 	linkinpark: {
 		num: 300066,
@@ -21413,6 +21417,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 70,
 		color: "Green",
 		eggGroups: ["Mineral"],
+		gen: 7,
 	},
 	kfc: {
 		num: 300067,
@@ -21420,11 +21425,12 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		types: ["Fire","Flying"],
 		genderRatio: {M: 0.5, F: 0.5},
 		baseStats: {hp: 74, atk: 79, def: 72, spa: 78, spd: 89, spe: 117},
-		abilities: {0: "Drough"},
+		abilities: {0: "Drought"},
 		heightm: 1.1,
 		weightkg: 12.5,
 		color: "Yellow",
 		eggGroups: ["Mineral"],
+		gen: 7,
 	},
 	kingbro: {
 		num: 300068,
@@ -21437,5 +21443,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 78.5,
 		color: "Pink",
 		eggGroups: ["Mineral"],
+		gen: 7,
 	},
 };

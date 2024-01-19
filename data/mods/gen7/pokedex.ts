@@ -444,7 +444,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	kfc: {
 		inherit:true,
-		abilities: {0: "Drough"},
+		abilities: {0: "Drought"},
 	},
 	kingbro: {
 		inherit:true,
