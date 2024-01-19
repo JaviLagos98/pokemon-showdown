@@ -99963,6 +99963,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			taunt: ["7L0","8L0"],
 			moonblast: ["7L0","8L0"],
 			toxic: ["7L0","8L0"],
+			tailwind: ["7L0","8L0"],
 		},
 	},
 	lavisita: {
