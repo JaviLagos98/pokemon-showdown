@@ -100013,6 +100013,8 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			defog: ["7L0","8L0"],
 			outrage: ["7L0","8L0"],
 			aerialace: ["7L0","8L0"],
+			earthquake: ["7L0", "8L0"],
+			dragondance: ["7L0", "8L0"],
 		},
 	},
 	merry: {
@@ -100029,6 +100031,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			moonblast: ["7L0","8L0"],
 			flashcannon: ["7L0","8L0"],
 			nastyplot: ["7L0","8L0"],
+			calmmind: ["7L0", "8L0"],
 		},
 	},
 	polvoron: {
@@ -100045,6 +100048,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			extremespeed: ["7L0","8L0"],
 			ironhead: ["7L0","8L0"],
 			earthquake: ["7L0","8L0"],
+			dragondance: ["7L0", "8L0"],
 		},
 	},
 	sanders: {
