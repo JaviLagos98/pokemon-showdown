@@ -99964,6 +99964,8 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			moonblast: ["7L0","8L0"],
 			toxic: ["7L0","8L0"],
 			tailwind: ["7L0","8L0"],
+			trick: ["7L0","8L0"],
+			worryseed: ["7L0","8L0"],
 		},
 	},
 	lavisita: {
