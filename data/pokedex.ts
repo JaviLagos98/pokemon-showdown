@@ -20975,7 +20975,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	rprime: {
 		num:300029,
 		name: "R Prime",
-		types: ["Ice", "Grass"],
+		types: ["Dragon", "Fighting"],
 		genderRatio: {M:0.5,F:0.5},
 		baseStats: {hp: 83, atk: 131, def: 80, spa: 93, spd: 73, spe: 80},
 		abilities: {0: "Moxie"},
