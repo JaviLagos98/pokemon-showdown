@@ -623,5 +623,9 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	kingbro: {
 		inherit:true,
 		abilities: {0: "Regenerator"},
-	}, 
+	},
+	globorb: {
+		inherit:true,
+		abilities: {0: "Multiscale"},
+	},
 };

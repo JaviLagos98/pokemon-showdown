@@ -6570,4 +6570,8 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	globorb: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };

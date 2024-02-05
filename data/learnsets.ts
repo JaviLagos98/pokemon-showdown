@@ -100496,4 +100496,15 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			trickroom: ["7L0","7L0"]
 		},
 	},
+	globorb: {
+		learnset: {
+			dragondance: ["7L0","8L0"],
+			extremespeed: ["7L0","8L0"],
+			outrage: ["7L0","8L0"],
+			earthquake: ["7L0","8L0"],
+			roost: ["7L0","8L0"],
+			knockoff: ["7L0","8L0"],
+			darkestlariat: ["7L0","8L0"],
+		},
+	},
 };

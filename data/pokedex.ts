@@ -21445,4 +21445,17 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral"],
 		gen: 7,
 	},
+	globorb: {
+		num: 300069,
+		name: "GLoborb",
+		types: ["DRagon","Flying"],
+		gender: "N",
+		baseStats: {hp: 97, atk: 151, def: 105, spa: 93, spd: 103, spe: 93},
+		abilities: {0: "Multiscale"},
+		heightm: 3.7,
+		weightkg: 420,
+		color: "White",
+		eggGroups: ["Mineral"],
+		gen: 7,
+	}
 };
