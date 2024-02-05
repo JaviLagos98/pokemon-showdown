@@ -100211,6 +100211,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			retaliate: ["7L0","8L0"],
 			spectralthief: ["7L0","8L0"],
 			playrough: ["7L0","8L0"],
+			hyperspacefury: ["7L0","8L0"],
 		},
 	},
 	pipo: {
@@ -100235,6 +100236,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			toxicspikes: ["7L0","8L0"],
 			rapidspin: ["7L0","8L0"],
 			gyroball: ["7L0","8L0"],
+			stealthrock: ["7L0","8L0"],
 		},
 	},
 	cynthia: {
@@ -100243,6 +100245,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			earthquake: ["7L0","8L0"],
 			flareblitz: ["7L0","8L0"],
 			bulkup: ["7L0","8L0"],
+			tailwind: ["7L0","8L0"],
 		},
 	},
 	lolobunny: {
