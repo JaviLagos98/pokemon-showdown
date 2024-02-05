@@ -3800,7 +3800,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
-	globorb: {
+	elfooscuroespacialjoseignacio: {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},

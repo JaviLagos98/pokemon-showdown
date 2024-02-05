@@ -100228,6 +100228,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			moonblast: ["7L0","8L0"],
 			uturn: ["7L0","8L0"],
 			knockoff: ["7L0","8L0"],
+			tailwind: ["7L0","8L0"],
 		},
 	},
 	alejandro: {
@@ -100245,7 +100246,6 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			earthquake: ["7L0","8L0"],
 			flareblitz: ["7L0","8L0"],
 			bulkup: ["7L0","8L0"],
-			tailwind: ["7L0","8L0"],
 		},
 	},
 	lolobunny: {
@@ -100496,7 +100496,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			trickroom: ["7L0","7L0"]
 		},
 	},
-	globorb: {
+	elfooscuroespacialjoseignacio: {
 		learnset: {
 			dragondance: ["7L0","8L0"],
 			extremespeed: ["7L0","8L0"],

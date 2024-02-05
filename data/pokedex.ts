@@ -21445,10 +21445,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral"],
 		gen: 7,
 	},
-	globorb: {
+	elfooscuroespacialjoseignacio: {
 		num: 300069,
-		name: "GLoborb",
-		types: ["DRagon","Flying"],
+		name: "Elfo Oscuro Espacial Jose Ignacio",
+		types: ["Dragon","Flying"],
 		gender: "N",
 		baseStats: {hp: 97, atk: 151, def: 105, spa: 93, spd: 103, spe: 93},
 		abilities: {0: "Multiscale"},
