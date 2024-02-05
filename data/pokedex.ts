@@ -21448,7 +21448,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	elfooscuroespacialjoseignacio: {
 		num: 300069,
 		name: "Elfo Oscuro Espacial Jose Ignacio",
-		types: ["Dragon","Flying"],
+		types: ["Dragon","Normal"],
 		gender: "N",
 		baseStats: {hp: 97, atk: 151, def: 105, spa: 93, spd: 103, spe: 93},
 		abilities: {0: "Multiscale"},
