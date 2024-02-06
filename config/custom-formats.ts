@@ -9,7 +9,15 @@ export const Formats: FormatList = [
 	},
 	{
 		name: "[Gen 7] [TCC3] TECA TWICH CUP 3",
-
+		timer: {
+			starting: 10 * 60,
+			addPerTurn: 0,
+			maxPerTurn: 60,
+			maxFirstTurn: 90,
+			grace: 90,
+			timeoutAutoChoose: true,
+			dcTimerBank: false,
+		},
 		mod: 'gen7',
 		ruleset: [
             'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Item Clause',
@@ -22,6 +30,15 @@ export const Formats: FormatList = [
 
 		mod: 'gen7',
         gameType: 'doubles',
+		timer: {
+			starting: 15 * 60,
+			addPerTurn: 0,
+			maxPerTurn: 55,
+			maxFirstTurn: 90,
+			grace: 90,
+			timeoutAutoChoose: true,
+			dcTimerBank: false,
+		},
 		ruleset: [
 			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
