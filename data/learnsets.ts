@@ -100396,6 +100396,8 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			drillpeck: ["7L0","8L0"],
 			earthquake: ["7L0","8L0"],
 			suckerpunch: ["7L0","8L0"],
+			aquajet: ["7L0","8L0"],
+			throatchop: ["7L0","8L0"],
 		},
 	},
 	pepote:{

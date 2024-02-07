@@ -21173,7 +21173,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		types: ["Normal", "Psychic"],
 		genderRatio: {M:0.5,F:0.5},
 		baseStats: {hp: 90, atk: 93, def: 90, spa: 123, spd: 83, spe: 96},
-		abilities: {0: "Download"},
+		abilities: {0: "Download", 1: "Adaptability"},
 		heightm: 0.4,
 		weightkg: 4,
 		color: "Red",

@@ -69,9 +69,9 @@ export const Formats: FormatList = [
 		mod: 'gen7',
         gameType: 'doubles',
 		timer: {
-			starting: 15 * 60,
+			starting: 10 * 60,
 			addPerTurn: 0,
-			maxPerTurn: 55,
+			maxPerTurn: 60,
 			maxFirstTurn: 90,
 			grace: 90,
 			timeoutAutoChoose: true,
