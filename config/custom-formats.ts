@@ -26,7 +26,7 @@ export const Formats: FormatList = [
 		]
 	},
     {
-		name: "[Gen 7] [TCC3DOUBLES] TECA TWICH CUP 3",
+		name: "[Gen 7] [TCC3DOUBLES] DOUBLES - TECA TWICH CUP 3",
 
 		mod: 'gen7',
         gameType: 'doubles',
@@ -64,7 +64,7 @@ export const Formats: FormatList = [
 		]
 	},
     {
-		name: "[Gen 7] [Training] TECA TWICH CUP 3",
+		name: "[Gen 7] [Training] DOUBLES - TECA TWICH CUP 3",
 
 		mod: 'gen7',
         gameType: 'doubles',
