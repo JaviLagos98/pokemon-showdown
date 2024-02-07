@@ -597,7 +597,7 @@ export class RoomBattle extends RoomGame<RoomBattlePlayer> {
 			}
 		}
 		this.timer = new RoomBattleTimer(this);
-		if (Config.forcetimer || this.format.includes('blitz') || this.format.includes('tcc3')) this.timer.start();
+		if (Config.forcetimer || this.format.includes('blitz')) this.timer.start();
 		this.start();
 	}
 
