@@ -368,7 +368,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	vayalacaballa: {
 		inherit: true,
-		abilities: {0: "Download"},
+		abilities: {0: "Download", 1: "Adaptability"},
 	},
 	osoamoroso: {
 		inherit: true,
