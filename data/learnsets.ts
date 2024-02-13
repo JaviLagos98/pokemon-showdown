@@ -99939,6 +99939,8 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			swordsdance: ["7L0","8L0"],
 			megahorn: ["7L0","8L0"],
 			poisonjab: ["7L0","8L0"],
+			earthquake: ["7L0", "8L0"],
+			protect: ["7L0", "8L0"]
 		},
 	},
 	elglitch: {
