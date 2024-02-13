@@ -21457,5 +21457,18 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "White",
 		eggGroups: ["Mineral"],
 		gen: 7,
+	},
+	elcrepusculo: {
+		num: 300070,
+		name: "EL CREPUSCULO",
+		types: ["Steel","Fairy"],
+		gender: "N",
+		baseStats: {hp: 90, atk: 73, def: 124, spa: 81, spd: 110, spe: 53},
+		abilities: {0: "Unaware"},
+		heightm: 1.9,
+		weightkg: 205,
+		color: "Pink",
+		eggGroups: ["Mineral"],
+		gen: 7,
 	}
 };

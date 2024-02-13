@@ -3804,4 +3804,8 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	elcrepusculo:{
+		tier: "NU",
+		doublesTier: "(DUU)",
+	}
 };

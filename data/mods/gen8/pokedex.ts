@@ -628,4 +628,8 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit:true,
 		abilities: {0: "Multiscale"},
 	},
+	elcrepusculo: {
+		inherit:true,
+		abilities: {0: "Unaware"},
+	}
 };

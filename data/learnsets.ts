@@ -100509,4 +100509,12 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			darkestlariat: ["7L0","8L0"],
 		},
 	},
+	elcrepusculo:{
+		learnset: {
+			lightscreen: ["7L0","8L0"],
+			reflect: ["7L0","8L0"],
+			doubleironbash: ["7L0","8L0"],
+			moonblast: ["7L0","8L0"],
+		}
+	}
 };

@@ -6122,4 +6122,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	elfooscuroespacialjoseignacio: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	elcrepusculo:{
+		tier: "NU",
+		doublesTier: "(DUU)",
+	}
 };
