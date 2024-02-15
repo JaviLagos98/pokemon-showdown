@@ -21474,7 +21474,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	alison : {
 		num: 300071,
 		name: "Alison",
-		types: ["Electric","Fairy"],
+		types: ["Electric","Dark"],
 		genderRatio: {M: 0, F: 1},
 		baseStats: {hp: 70, atk: 93, def: 63, spa: 105, spd: 66, spe: 101},
 		abilities: {0: "Illusion"},
