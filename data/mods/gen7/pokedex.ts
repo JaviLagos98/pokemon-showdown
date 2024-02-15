@@ -480,7 +480,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	amber: {
 		inherit:true,
-		abilities: {0: "Siper"},
+		abilities: {0: "Sniper"},
 	},
 	pesadilla: {
 		inherit:true,
