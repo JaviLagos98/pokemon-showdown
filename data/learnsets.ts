@@ -100518,5 +100518,74 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			doubleironbash: ["7L0","8L0"],
 			moonblast: ["7L0","8L0"],
 		}
+	},
+	alison : {
+		learnset: {
+			quiverdance: ["7L0","8L0"],
+			uturn: ["7L0","8L0"],
+			revelationdance: ["7L0","8L0"],
+			darkpulse: ["7L0","8L0"],
+		}
+	},
+	caronte : {
+		learnset: {
+			energyball: ["7L0","8L0"],
+			psychic: ["7L0","8L0"],
+			shadowball: ["7L0","8L0"],
+			flamethrower: ["7L0","8L0"],
+		}
+	},
+	sanchopanza : {
+		learnset: {
+			suckerpunch: ["7L0","8L0"],
+			earthquake: ["7L0","8L0"],
+			protect: ["7L0","8L0"],
+			facade: ["7L0","8L0"],
+		}
+	},
+	selenio: {
+		learnset: {
+			dragondance: ["7L0","8L0"],
+			bulletpunch: ["7L0","8L0"],
+			pursuit: ["7L0","8L0"],
+			xscissor: ["7L0","8L0"],
+		}
+	},
+	cockzilla: {
+		learnset: {
+			earthquake: ["7L0","8L0"],
+			rockpolish: ["7L0","8L0"],
+			heatcrash: ["7L0","8L0"],
+			rest: ["7L0","8L0"],
+		}
+	},
+	amber: {
+		learnset: {
+			attackorder: ["7L0","8L0"],
+			drillrun: ["7L0","8L0"],
+			ironhead: ["7L0","8L0"],
+			autotomize: ["7L0","8L0"],
+		}
+	},
+	pesadilla: {
+		learnset: {
+			shadowball: ["7L0","8L0"],
+			thunderbolt: ["7L0","8L0"],
+			sludgebomb: ["7L0","8L0"],
+			hydropump: ["7L0","8L0"],
+		}
+	},
+	lasllaves: {
+		learnset: {
+			toxic: ["7L0","8L0"],
+			thunderwave: ["7L0","8L0"],
+			reflect: ["7L0","8L0"],
+			lightscreen: ["7L0","8L0"],
+		}
+	},
+	dummyevothree: {
+		learnset: {
+			tacle: ["7L0","8L0"]
+		}
 	}
 };

@@ -10,9 +10,9 @@ export const Formats: FormatList = [
 	{
 		name: "[Gen 7] [TCC3] TECA TWICH CUP 3",
 		timer: {
-			starting: 10 * 60,
+			starting: 15 * 60,
 			addPerTurn: 0,
-			maxPerTurn: 60,
+			maxPerTurn: 90,
 			maxFirstTurn: 180,
 			grace: 90,
 			timeoutAutoChoose: true,

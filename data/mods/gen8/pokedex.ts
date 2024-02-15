@@ -631,5 +631,41 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	elcrepusculo: {
 		inherit:true,
 		abilities: {0: "Unaware"},
+	},
+	alison : {
+		inherit:true,
+		abilities: {0: "Illusion"},
+	},
+	caronte : {
+		inherit:true,
+		abilities: {0: "Shadow Tag"},
+	},
+	sanchopanza : {
+		inherit:true,
+		abilities: {0: "Guts"},
+	},
+	selenio: {
+		inherit:true,
+		abilities: {0: "Technician"},
+	},
+	cockzilla: {
+		inherit:true,
+		abilities: {0: "Storm Drain"},
+	},
+	amber: {
+		inherit:true,
+		abilities: {0: "Prankster"},
+	},
+	pesadilla: {
+		inherit:true,
+		abilities: {0: "Intimidate"},
+	},
+	lasllaves: {
+		inherit:true,
+		abilities: {0: "Prankster"},
+	},
+	dummyevothree: {
+		inherit:true,
+		abilities: {0: "Truant"},
 	}
 };
