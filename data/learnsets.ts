@@ -100141,6 +100141,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			uturn: ["7L0","8L0"],
 			protect: ["7L0","8L0"],
 			airslash: ["7L0","8L0"],
+			moonblast: ["7L0","8L0"],
 		},
 	},
 	amphy: {
@@ -100173,6 +100174,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			machpunch: ["7L0","8L0"],
 			uturn: ["7L0","8L0"],
 			rockslide: ["7L0","8L0"],
+			ironhead: ["7L0","8L0"],
 		},
 	},
 	thewatertles: {
