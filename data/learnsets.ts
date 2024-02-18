@@ -100581,11 +100581,12 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			thunderwave: ["7L0","8L0"],
 			reflect: ["7L0","8L0"],
 			lightscreen: ["7L0","8L0"],
+			playrough: ["7L0","8L0"],
 		}
 	},
 	dummyevothree: {
 		learnset: {
-			tacle: ["7L0","8L0"]
+			tackle: ["7L0","8L0"]
 		}
 	}
 };
