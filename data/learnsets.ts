@@ -100210,6 +100210,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			psychic: ["7L0","8L0"],
 			fleurcannon: ["7L0","8L0"],
 			nastyplot: ["7L0","8L0"],
+			flamethrower: ["7L0","8L0"],
 		},
 	},
 	santana: {
