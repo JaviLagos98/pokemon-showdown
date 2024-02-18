@@ -100150,6 +100150,8 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			toxic: ["7L0","8L0"],
 			protect: ["7L0","8L0"],
 			tailglow: ["7L0","8L0"],
+			mirrorcoat:  ["7L0","8L0"],
+			destinybond:  ["7L0","8L0"],
 		},
 	},
 	vicobrakai: {
@@ -100158,6 +100160,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			superpower: ["7L0","8L0"],
 			protect: ["7L0","8L0"],
 			dragondance: ["7L0","8L0"],
+			poisonjab: ["7L0","8L0"],
 		},
 	},
 	ritacheat: {
