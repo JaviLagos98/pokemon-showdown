@@ -6129,5 +6129,45 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	elcrepusculo:{
 		tier: "NU",
 		doublesTier: "(DUU)",
+	},
+	elexperimento: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	alison : {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	caronte : {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	sanchopanza : {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	selenio: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	cockzilla: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	amber: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	pesadilla: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	lasllaves: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
+	dummyevothree: {
+		tier: "NU",
+		doublesTier: "(DUU)",
 	}
 };

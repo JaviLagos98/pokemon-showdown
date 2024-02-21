@@ -3808,6 +3808,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NU",
 		doublesTier: "(DUU)",
 	},
+	elexperimento: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 	alison : {
 		tier: "NU",
 		doublesTier: "(DUU)",

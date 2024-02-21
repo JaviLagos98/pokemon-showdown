@@ -667,5 +667,9 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	dummyevothree: {
 		inherit:true,
 		abilities: {0: "Truant"},
+	},
+	elexperimento: {
+		inherit:true,
+		abilities: {0: "Technician"},
 	}
 };

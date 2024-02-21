@@ -100525,6 +100525,15 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			moonblast: ["7L0","8L0"],
 		}
 	},
+	elexperimento:{
+		learnset: {
+			bulletpunch: ["7L0","8L0"],
+			doubleironbash: ["7L0","8L0"],
+			volttackle: ["7L0","8L0"],
+			firstimpression: ["7L0","8L0"],
+			nuzzle: ["7L0","8L0"],
+		}
+	},
 	alison : {
 		learnset: {
 			quiverdance: ["7L0","8L0"],
