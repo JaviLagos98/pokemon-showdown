@@ -100133,6 +100133,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			flareblitz: ["7L0","8L0"],
 			uturn: ["7L0","8L0"],
 			knockoff: ["7L0","8L0"],
+			earthquake: ["7L0","8L0"],
 		},
 	},
 	antifrancia: {
@@ -100152,6 +100153,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			tailglow: ["7L0","8L0"],
 			mirrorcoat:  ["7L0","8L0"],
 			destinybond:  ["7L0","8L0"],
+			counter: ["7L0","8L0"],
 		},
 	},
 	vicobrakai: {
@@ -100161,6 +100163,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			protect: ["7L0","8L0"],
 			dragondance: ["7L0","8L0"],
 			poisonjab: ["7L0","8L0"],
+			closecombat: ["7L0","8L0"],
 		},
 	},
 	ritacheat: {
