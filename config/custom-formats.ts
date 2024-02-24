@@ -84,6 +84,28 @@ export const Formats: FormatList = [
         ],
 	},
 	{
+		name: "[Gen 7] Multi TCC3 Battle",
+
+		mod: 'gen7',
+		gameType: 'multi',
+		tournamentShow: false,
+		rated: false,
+		timer: {
+			starting: 10 * 60,
+			addPerTurn: 0,
+			maxPerTurn: 60,
+			maxFirstTurn: 90,
+			grace: 90,
+			timeoutAutoChoose: true,
+			dcTimerBank: false,
+		},
+		ruleset: [
+			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
+            'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 6', 'Default Level = 100',
+            'Picked Team Size = 3', 'Z-Move Clause', 'Ability Clause = 1'
+		],
+	},
+	{
 		name: "[Gen 8] [TCC2] TECA TWICH CUP 2 Singles",
 
 		mod: 'gen8',
