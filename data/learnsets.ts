@@ -100532,9 +100532,9 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 		learnset: {
 			bulletpunch: ["7L0","8L0"],
 			doubleironbash: ["7L0","8L0"],
-			volttackle: ["7L0","8L0"],
-			firstimpression: ["7L0","8L0"],
+			bugbite: ["7L0", "8L0"],
 			nuzzle: ["7L0","8L0"],
+			volttackle: ["7L0","8L0"],
 		}
 	},
 	alison : {
