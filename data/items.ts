@@ -3132,13 +3132,19 @@ export const Items: {[itemid: string]: ItemData} = {
 		},
 		onModifyAtkPriority: 1,
 		onModifyAtk(atk, pokemon) {
-			if (pokemon.baseSpecies.baseSpecies === 'Pikachu' || pokemon.baseSpecies.name === 'EL EXPERIMENTO' || pokemon.baseSpecies.id === 'elexperimento') {
+			if (pokemon.baseSpecies.baseSpecies === 'Pikachu' ) {
+				return this.chainModify(2);
+			}
+			if (pokemon.baseSpecies.baseSpecies === 'EL EXPERIMENTO' ) {
 				return this.chainModify(2);
 			}
 		},
 		onModifySpAPriority: 1,
 		onModifySpA(spa, pokemon) {
-			if (pokemon.baseSpecies.baseSpecies === 'Pikachu' || pokemon.baseSpecies.name === 'EL EXPERIMENTO' || pokemon.baseSpecies.id === 'elexperimento') {
+			if (pokemon.baseSpecies.baseSpecies === 'Pikachu') {
+				return this.chainModify(2);
+			}
+			if (pokemon.baseSpecies.baseSpecies === 'EL EXPERIMENTO' ) {
 				return this.chainModify(2);
 			}
 		},
