@@ -3135,21 +3135,38 @@ export const Items: {[itemid: string]: ItemData} = {
 			if (pokemon.baseSpecies.baseSpecies === 'Pikachu' ) {
 				return this.chainModify(2);
 			}
+		},
+		onModifySpAPriority: 1,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.baseSpecies === 'EL EXPERIMENTO') {
+				return this.chainModify(2);
+			}
+		},
+		itemUser: ["Pikachu", "Pikachu-Cosplay", "Pikachu-Rock-Star", "Pikachu-Belle", "Pikachu-Pop-Star", "Pikachu-PhD", "Pikachu-Libre", "Pikachu-Original", "Pikachu-Hoenn", "Pikachu-Sinnoh", "Pikachu-Unova", "Pikachu-Kalos", "Pikachu-Alola", "Pikachu-Partner", "Pikachu-Starter", "Pikachu-World", "EL EXPERIMENTO"],
+		num: 236,
+		gen: 2,
+	},
+	experimentoball: {
+		name: "Experimento Ball",
+		spritenum: 251,
+		fling: {
+			basePower: 30,
+			status: 'par',
+		},
+		onModifyAtkPriority: 1,
+		onModifyAtk(atk, pokemon) {
 			if (pokemon.baseSpecies.baseSpecies === 'EL EXPERIMENTO' ) {
 				return this.chainModify(2);
 			}
 		},
 		onModifySpAPriority: 1,
 		onModifySpA(spa, pokemon) {
-			if (pokemon.baseSpecies.baseSpecies === 'Pikachu') {
-				return this.chainModify(2);
-			}
-			if (pokemon.baseSpecies.baseSpecies === 'EL EXPERIMENTO' ) {
+			if (pokemon.baseSpecies.name === 'EL EXPERIMENTO' ) {
 				return this.chainModify(2);
 			}
 		},
-		itemUser: ["Pikachu", "Pikachu-Cosplay", "Pikachu-Rock-Star", "Pikachu-Belle", "Pikachu-Pop-Star", "Pikachu-PhD", "Pikachu-Libre", "Pikachu-Original", "Pikachu-Hoenn", "Pikachu-Sinnoh", "Pikachu-Unova", "Pikachu-Kalos", "Pikachu-Alola", "Pikachu-Partner", "Pikachu-Starter", "Pikachu-World", "EL EXPERIMENTO"],
-		num: 236,
+		itemUser: ["EL EXPERIMENTO"],
+		num: 23600,
 		gen: 2,
 	},
 	lightclay: {
