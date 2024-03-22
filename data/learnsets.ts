@@ -100181,6 +100181,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			uturn: ["7L0","8L0"],
 			rockslide: ["7L0","8L0"],
 			ironhead: ["7L0","8L0"],
+			outrage: ["7L0","8L0"],
 		},
 	},
 	thewatertles: {
@@ -100189,6 +100190,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			surf: ["7L0","8L0"],
 			protect: ["7L0","8L0"],
 			trickroom: ["7L0","8L0"],
+			icebeam: ["7L0","8L0"]
 		},
 	},
 	rikaorimoto: {
