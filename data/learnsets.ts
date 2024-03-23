@@ -100553,6 +100553,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			psychic: ["7L0","8L0"],
 			shadowball: ["7L0","8L0"],
 			flamethrower: ["7L0","8L0"],
+			dracometeor: ["7L0","8L0"],
 		}
 	},
 	sanchopanza : {
@@ -100593,6 +100594,8 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			thunderbolt: ["7L0","8L0"],
 			sludgebomb: ["7L0","8L0"],
 			hydropump: ["7L0","8L0"],
+			psychic: ["7L0","8L0"],
+			tailwind: ["7L0","8L0"],
 		}
 	},
 	lasllaves: {
@@ -100608,5 +100611,13 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 		learnset: {
 			tackle: ["7L0","8L0"]
 		}
-	}
+	},
+	daylight: {
+		learnset: {
+			thunderbolt: ["7L0","8L0"],
+			moonblast: ["7L0","8L0"],
+			airslash: ["7L0","8L0"],
+			flashcannon: ["7L0","8L0"],
+		}
+	},
 };

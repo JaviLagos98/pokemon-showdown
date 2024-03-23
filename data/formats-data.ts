@@ -6617,5 +6617,9 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	dummyevothree: {
 		tier: "NU",
 		doublesTier: "(DUU)",
-	}
+	},
+	daylight: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };

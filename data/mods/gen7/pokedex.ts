@@ -497,5 +497,9 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	elexperimento: {
 		inherit:true,
 		abilities: {0: "Technician"},
-	}
+	},
+	daylight: {
+		inherit:true,
+		abilities: {0: "Serene Grace"},
+	},
 };

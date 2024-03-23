@@ -21603,5 +21603,18 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Yellow",
 		eggGroups: ["Mineral"],
 		gen: 7,
-	}
+	},
+	daylight: {
+		num: 300081,
+		name: "Daylight",
+		types: ["Fairy", "Electric"],
+		gender: "M",
+		baseStats: {hp: 90, atk: 116, def: 111, spa: 120, spd: 110, spe: 86},
+		abilities: {0: "Serene Grace"},
+		heightm: 2.9,
+		weightkg: 345,
+		color: "White",
+		eggGroups: ["Mineral"],
+		gen: 7,
+	},
 };

@@ -3847,5 +3847,9 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	dummyevothree: {
 		tier: "NU",
 		doublesTier: "(DUU)",
-	}
+	},
+	daylight: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+	},
 };
