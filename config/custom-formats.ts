@@ -20,7 +20,7 @@ export const Formats: FormatList = [
 		},
 		mod: 'gen7',
 		ruleset: [
-            'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Item Clause',
+            'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Double Item Clause',
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
             'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1'
 		]
@@ -40,7 +40,7 @@ export const Formats: FormatList = [
 			dcTimerBank: false,
 		},
 		ruleset: [
-			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
+			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
             'Picked Team Size = 4', 'Z-Move Clause', 'Ability Clause = 1'
         ],
@@ -58,7 +58,7 @@ export const Formats: FormatList = [
 		},
 		mod: 'gen7',
 		ruleset: [
-            'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Item Clause',
+            'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Double Item Clause',
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
             'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1'
 		]
@@ -78,7 +78,7 @@ export const Formats: FormatList = [
 			dcTimerBank: false,
 		},
 		ruleset: [
-			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
+			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
             'Picked Team Size = 4', 'Z-Move Clause', 'Ability Clause = 1'
         ],
@@ -100,7 +100,7 @@ export const Formats: FormatList = [
 			dcTimerBank: false,
 		},
 		ruleset: [
-			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
+			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 6', 'Default Level = 100',
             'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1'
 		],
@@ -122,8 +122,8 @@ export const Formats: FormatList = [
 			dcTimerBank: false,
 		},
 		ruleset: [
-			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
-            'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 6', 'Default Level = 100',
+			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
+            'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
             'Picked Team Size = 3', 'Z-Move Clause', 'Ability Clause = 1'
 		],
 	},
@@ -132,7 +132,7 @@ export const Formats: FormatList = [
 
 		mod: 'gen8',
 		ruleset: [
-            'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Item Clause',
+            'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Double Item Clause',
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
             'Picked Team Size = 6', 'Dynamax Clause',
         ],
@@ -143,7 +143,7 @@ export const Formats: FormatList = [
 		mod: 'gen8',
         gameType: 'doubles',
 		ruleset: [
-			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Item Clause', 'Endless Battle Clause', 
+			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
             'Picked Team Size = 4', 'Dynamax Clause',
         ],
