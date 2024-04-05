@@ -22,7 +22,7 @@ export const Formats: FormatList = [
 		ruleset: [
             'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Double Item Clause',
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
-            'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1'
+            'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1', 'Open Team Sheets'
 		]
 	},
     {
@@ -42,7 +42,7 @@ export const Formats: FormatList = [
 		ruleset: [
 			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
-            'Picked Team Size = 4', 'Z-Move Clause', 'Ability Clause = 1'
+            'Picked Team Size = 4', 'Z-Move Clause', 'Ability Clause = 1', 'Open Team Sheets'
         ],
 	},
 	{
@@ -60,7 +60,7 @@ export const Formats: FormatList = [
 		ruleset: [
             'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Endless Battle Clause', 'Double Item Clause',
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
-            'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1'
+            'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1', 'Open Team Sheets'
 		]
 	},
     {
@@ -80,7 +80,7 @@ export const Formats: FormatList = [
 		ruleset: [
 			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 8', 'Default Level = 100',
-            'Picked Team Size = 4', 'Z-Move Clause', 'Ability Clause = 1'
+            'Picked Team Size = 4', 'Z-Move Clause', 'Ability Clause = 1', 'Open Team Sheets'
         ],
 	},
 	{
@@ -102,7 +102,7 @@ export const Formats: FormatList = [
 		ruleset: [
 			'Obtainable Moves', 'Obtainable Abilities', 'Team Preview', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Double Item Clause', 'Endless Battle Clause', 
             'OHKO Clause', 'Evasion Items Clause', 'Evasion Moves Clause', 'Max Team Size = 6', 'Default Level = 100',
-            'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1'
+            'Picked Team Size = 6', 'Z-Move Clause', 'Ability Clause = 1', 'Open Team Sheets'
 		],
 	},
 	{
